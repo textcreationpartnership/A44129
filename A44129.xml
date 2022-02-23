@@ -1,0 +1,1165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elements of speech an essay of inquiry into the natural production of letters : with an Appendix concerning persons deaf &amp; dumb / by William Holder.</title>
+            <author>Holder, William, 1616-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 147 KB of XML-encoded text transcribed from 89 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44129</idno>
+            <idno type="STC">Wing H2386</idno>
+            <idno type="STC">ESTC R13396</idno>
+            <idno type="EEBO-CITATION">11833484</idno>
+            <idno type="OCLC">ocm 11833484</idno>
+            <idno type="VID">49742</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44129)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49742)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 497:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Elements of speech an essay of inquiry into the natural production of letters : with an Appendix concerning persons deaf &amp; dumb / by William Holder.</title>
+                  <author>Holder, William, 1616-1698.</author>
+               </titleStmt>
+               <extent>[8], 168 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.N. for J. Martyn ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Speech.</term>
+               <term>Deaf --  Means of communication.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Jason Colman</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Jason Colman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49742:1"/>
+            <pb facs="tcp:49742:1"/>
+            <p>
+               <hi>ELEMENTS</hi> OF SPEECH: AN ESSAY of INQUIRY INTO The Natural Production OF LETTERS: WITH An <hi>APPENDIX</hi> Concerning Perſons Deaf &amp; Dumb</p>
+            <p>BY WILLIAM HOLDER <hi>D. D.</hi> Fellow of the <hi>R. Society.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. N.</hi> for <hi>J. Martyn</hi> Printer to the <hi>R. Society,</hi> at the <hi>Bell</hi> without <hi>Temple-Barr</hi> 1669.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:49742:2"/>
+            <opener>
+               <dateline>
+                  <date>March 4. 1668/9.</date>
+               </dateline>
+            </opener>
+            <head>
+               <hi>At a meeting of the Council of the</hi> R. Society.</head>
+            <p>Ordered,</p>
+            <p>
+               <hi>THat a Diſcourſe preſented to the</hi> R. Society, <hi>Entituled,</hi> Elements of Speech; <hi>or,</hi> An Eſſay of Inquiry into the Natural Pro<g ref="char:EOLhyphen"/>duction of Letters, <hi>with</hi> an Ap<g ref="char:EOLhyphen"/>pendix concerning Perſons Deaf and Dumb, <hi>be Printed by</hi> John Martyn, <hi>Printer to the ſaid</hi> Society.</p>
+            <closer>
+               <signed>BROUNCKER Preſ.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:49742:2"/>
+            <pb facs="tcp:49742:3"/>
+            <pb facs="tcp:49742:3"/>
+            <head>THE PREFACE.</head>
+            <p>IT hath been to me a matter of Wonder, that in the Alphabets of all Languages whereof I have any knowledge; there is not to be found either Order or Perfecti<g ref="char:EOLhyphen"/>on. The Characters (or written Letters) neither being adjuſted to the ſounds of Let<g ref="char:EOLhyphen"/>ters pronounced; nor diſpoſed in the Alpha<g ref="char:EOLhyphen"/>bet according to any rational or Natural Order. The Conſequences whereof have been, to render Languages more difficult to be learnt, and needleſly to advance Ortho<g ref="char:EOLhyphen"/>graphy into a troubleſome and laborious Art; and to hide the Nature of Letters in obſcu<g ref="char:EOLhyphen"/>rity, ſo as not to be found without much ſearching; nor perhaps to be ſufficiently ſearched, by ſuch as are moved to it onely by Philoſophical Curioſity, and are not by
+<pb facs="tcp:49742:4"/>any neceſsity engaged to a pertinacious di<g ref="char:EOLhyphen"/>ligence. Though in this kind it muſt be ac<g ref="char:EOLhyphen"/>knowledged, that ſome excellent Perſons amongſt us, who are above my Approbation or Elogy, have conſidered this Subject with great Care and Felicity. And it having hap<g ref="char:EOLhyphen"/>pened to me ſome years paſt, to have been deeply engaged in this ſame conſideration of the Alphabet, by a Worthy Deſigne of giving Relief to a Deaf and Dumb Perſon, in the year <hi>1659.</hi> recommended to my Care: and being at laſt prevailed with by divers Per<g ref="char:EOLhyphen"/>ſons, who remember the ſucceſs of that En<g ref="char:EOLhyphen"/>terprize, to Communicate the way and me<g ref="char:EOLhyphen"/>thod I then uſed; I have adventured to publiſh my thoughts concerning the Nature of Letters; more in reſpect of the Appen<g ref="char:EOLhyphen"/>dix, or Application of them to that excel<g ref="char:EOLhyphen"/>lent purpoſe, than that I eſteem them wor<g ref="char:EOLhyphen"/>thy to trouble the World, or able to produce any conſiderable addition to the diſcourſes of this Subject already extant: onely in re<g ref="char:EOLhyphen"/>gard of the obſcurity and ſubtilty of the difference of Letters, by reaſon of which, ſeveral Perſons are apt to make different
+<pb facs="tcp:49742:4"/>gueſſes and obſervations, and to be often un<g ref="char:EOLhyphen"/>fixed, and change their thoughts upon better Conſideration, as I have experienced, and believe the ſame muſt have happened to others; it were to be wiſhed, that all who have conſidered this Subject would Com<g ref="char:EOLhyphen"/>municate their thoughts and ways of find<g ref="char:EOLhyphen"/>ing out thoſe differences, which being done, every Hypotheſis would contribute ſome Light, as I hope this of mine may do; wherein I have endeavoured to abſtract my ſelf from prepoſſeſsion of Fancy, either by the <hi>Idea's</hi> of faulty Alphabets, or the Notions of other Authors. And here I muſt intreat the Reader to do the like for me; and withal, to read the Treatiſe of Letters once over, without ſtaying to diſ<g ref="char:EOLhyphen"/>pute or examine particulars, which he will often find more plainly expreſſed after<g ref="char:EOLhyphen"/>wards; and then, if he ſhall think it worth his trouble, to go over it again, and at his pleaſure, ſtay to make trials and examinations.</p>
+            <p>The Obſcurity of the Subject, and the Prejudice and Prepoſſeſsion of moſt Read<g ref="char:EOLhyphen"/>ers,
+<pb facs="tcp:49742:5"/>may plead excuſe for any Ampliati<g ref="char:EOLhyphen"/>ons or Repetitions that may be found, whilſt I labour to expreſs my ſelf ſo plain and full, that the Nature of Speech and Letters, ſo far as theſe preſent thoughts of mine reach to it, may be underſtood by all.</p>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 3, line 10. <hi>tion.</hi> l. 12. <hi>either, both to.</hi> p. 10. l. 2. <hi>deſigned to be.</hi> p. 11. l. 9. <hi>have their.</hi> p. 12. l. 18. <hi>bets of.</hi> p. 17. l. 7. <hi>the moſt apt.</hi> p, 19, l. 11. <hi>and.</hi> p. 29. l. 1 <hi>which is.</hi> l. 4. <hi>of one Organ.</hi> p. 30. l. 1. <hi>of Motion.</hi> p. 34. l. 9. <hi>Spirital, Ore-Vocal.</hi> p. 41. l 10. <hi>ed Original Letters.</hi> p. 42. l. 9. <hi>then the ſame.</hi> p. 49. l. 13. <hi>and Myle<g ref="char:EOLhyphen"/>ogloſs.</hi> p. 53. l. 12. <hi>Ng Naſo-Vocal. [Obs. there was in<g ref="char:EOLhyphen"/>tended a Character for Ng,</hi> viz. n <hi>with a tail like that of</hi> g. <hi>which muſt be underſtood where the Printer has imitated it by</hi> n <hi>or</hi> y.] p. 63. l. 20. <hi>Characters.</hi> p. 73. l. 7. <hi>Larynx, cannot.</hi> p. 74. l. 15. <hi>improperly.</hi> p. 81. l. 5. [<hi>Obs. the ſhort Vowels ſhould have been ranked thus;</hi> Folly <hi>under o,</hi> Fat <hi>under a, Sell</hi> under <hi>e,</hi> Ill <hi>under i,</hi> Full <hi>under oo, the other ſpaces left blank</hi>] p. 81. l. <hi>penult. Whiſpering, be.</hi> p. 93. l. 8. <hi>their ſubtle and.</hi> p. 97. l. 12. 36 <hi>Vowels.</hi> p. 101. l. 19. <hi>Letter. the.</hi> p. 104. l. 7. <hi>of the ſame.</hi> p. 107. l. 16. <hi>as they ſpeak.</hi> p. 110. l. 7. <hi>to that.</hi> p. 123. l. 21. <hi>nearer.</hi> p. 129. l. 7. <hi>theſe Perſons.</hi> p. 130. l. 17. <hi>reſpectively Letter ſpoken or written;</hi> p. 135. l. 19. <hi>out by being.</hi> p. 136. l. 1. <hi>Lips. Make him.</hi> p. 144. l. 7. <hi>ſhew him a.</hi> p. 152. l. 21. <hi>Pourtraitures.</hi> p. 154. l. 15. c<hi rend="sup">k</hi>t. p, 157. l. 19. <hi>(not to be thought on otherwiſe.)</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="phonetics_treatise">
+            <pb n="1" facs="tcp:49742:5"/>
+            <head>ELEMENTS OF SPEECH: <hi>An Eſſay of Enquiry into the Natural Production of Letters.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>F the Five Senſes, <hi>Two</hi> are uſually, and moſt properly called the Senſes of <hi>Learning,</hi> as being moſt capable of receiving communication of Thoughts and Notions by ſe<g ref="char:EOLhyphen"/>lected Signes; And theſe are <hi>Hearing</hi> and <hi>Seeing.</hi>
+            </p>
+            <pb n="2" facs="tcp:49742:6"/>
+            <p>The Object of Hearing is Sound, whoſe variety is ſo great, and con<g ref="char:EOLhyphen"/>veighance ſo eaſie, that it brings in admirable ſtore of intelligence and information to the common ſenſe. And like to it in the ſame reſpects is the Object of Seeing.</p>
+            <p>Either of theſe learned Senſes have their peculiar Priviledges: whereas Seeing requires Light, and a free Medium, and a right Line to the objects; we can hear in the dark, Immured, and by curve Lines, that is, Sound can paſs to the Ears, where viſual Rayes cannot to the Eye. But then, Sight takes in at a greater diſtance, and more variety at once, comprehending alſo Quieſcent objects, which Hearing does not: and eſpecially injoying the de<g ref="char:EOLhyphen"/>lightful variety of formes, and
+<pb n="3" facs="tcp:49742:6"/>figures, which come not to the Hearing. As to the preſent pur<g ref="char:EOLhyphen"/>poſe, both theſe Senſes embrace their Objects at greater diſtance, with more variety, and with a more curious diſcrimination, than the other Senſes, ſo that they are moſt fitted to receive and di<g ref="char:EOLhyphen"/>ſtinguiſh <hi>Signes</hi> for Communica<g ref="char:EOLhyphen"/>tion, and by their proper ad<g ref="char:EOLhyphen"/>vantages mutually ſupplying the defects of either. And both to<g ref="char:EOLhyphen"/>gether ſerve completely for the Reception and Communication of Learned Knowledge.</p>
+            <p>Now <hi>Signes</hi> for Communica<g ref="char:EOLhyphen"/>tion may be contrived at plea<g ref="char:EOLhyphen"/>ſure from any variety of Objects (eſpecially of one kind) apper<g ref="char:EOLhyphen"/>taining to either Senſe. For ex<g ref="char:EOLhyphen"/>ample, Four <hi>Bells</hi> admit Twenty four changes in Ringing, and
+<pb n="4" facs="tcp:49742:7"/>Five <hi>Bells</hi> One hundred and twenty: each change may, by a<g ref="char:EOLhyphen"/>greement and conſent, have a cer<g ref="char:EOLhyphen"/>tain ſignification impoſed upon it, and ſo Communication may be performed at a diſtance by Hear<g ref="char:EOLhyphen"/>ing. And for the Sight, Four or Five <hi>Torches</hi> held up at a Diſtance in the Night, 1 or 2, or 3, or 4, and any, or more of them eleva<g ref="char:EOLhyphen"/>ted, or depreſſed out of their Or<g ref="char:EOLhyphen"/>der, either in Breadth, or Long<g ref="char:EOLhyphen"/>ways, may by agreement give great variety of Notifications. And thus, Thouſands of Signes may be invented and agreed up<g ref="char:EOLhyphen"/>on, and learnt, and practiſed. Thus the Drum and Trumpet by their ſeveral Sounds, ſerve for many kinds of Advertiſements in Mili<g ref="char:EOLhyphen"/>tary affairs: and Bells ſerve to proclaim a ſcare-fire, and (in
+<pb n="5" facs="tcp:49742:7"/>ſome places) Water-Breaches; The departure of a Man, Wo<g ref="char:EOLhyphen"/>man, or Child; time of Divine Service; The hour of the day; day of the Moneth, <hi>&amp;c.</hi> Com<g ref="char:EOLhyphen"/>mon life is full of this kind of ſignificant Expreſſions, by Knock<g ref="char:EOLhyphen"/>ing, Beckoning, Frowning, Point<g ref="char:EOLhyphen"/>ing and the like; and Dumb perſons are ſagacious in the uſe of them. And even <hi>Brute</hi> Ani<g ref="char:EOLhyphen"/>mals make uſe of this artificial way of making divers motions to have ſeveral ſignifications, to Call, Warne, Chide, Cheriſh, Threaten, <hi>&amp;c.</hi> eſpecially within their own kinds. But of all other, there is none for this uſe compa<g ref="char:EOLhyphen"/>rable to the variety of inſtruct<g ref="char:EOLhyphen"/>ive Expreſſions by <hi>Speech,</hi> where<g ref="char:EOLhyphen"/>with <hi>Man</hi> alone is endowed, as with an Inſtrument ſuitable to
+<pb n="6" facs="tcp:49742:8"/>the Excellency of his Soul, for the moſt eaſie, ſpeedy, certain, full communication of the Infi<g ref="char:EOLhyphen"/>nite variety of his Thoughts, by the ready Commerce between the Tongue and the Ear. And if ſome Animals, as <hi>Parrots, Magpies, &amp;c.</hi> may ſeem to be capable of the ſame diſcriminations, yet we ſee, that their ſouls are too narrow to uſe ſo great an Engine. The chief, I ſay, of all ſignes, and which the <hi>Almighty's</hi> Providence, in the Creation of Man, indued him withall, and deſtin'd to that uſe, is <hi>Humane voice</hi> and the ſeve<g ref="char:EOLhyphen"/>ral modifications thereof by the Organs of Speech, <hi>viz.</hi> the <hi>Let<g ref="char:EOLhyphen"/>ters</hi> of the <hi>Alphabet,</hi> formed by the ſeveral Motions of the Mouth; and the great variety of Syllables compoſed of Letters, and form'd
+<pb n="7" facs="tcp:49742:8"/>with almoſt equal velocity; and the endleſs number of words capa<g ref="char:EOLhyphen"/>ble of being framed out of the Alphabet, either of more ſylla<g ref="char:EOLhyphen"/>bles, or of one; or ſometimes of a ſingle Letter, according as, by conſent and inſtitution, they are ordered to ſignifie the ſeveral parts of Speech or Language. And (which anſwers to the ſame end) the <hi>Characters</hi> or <hi>Symbols</hi> of theſe Letters expreſſed by Writing, or Printing, or Graving, <hi>&amp;c.</hi> ſo as to remain viſible, and diſcernable by the Eye; <hi>viz.</hi> to each Letter a proper Character deſigned to ſignifie the Power or Sound of the Letter, that when I ſee Letters joyned, I under<g ref="char:EOLhyphen"/>ſtand the ſound, and am ready to pronounce it. And this is <hi>Lan<g ref="char:EOLhyphen"/>guage</hi> in <hi>Counterfeit.</hi> Whereas
+<pb n="8" facs="tcp:49742:9"/>Language, originally and pro<g ref="char:EOLhyphen"/>perly (as the Word imports) is that of the Tongue, directed to the Ear by Speaking. <hi>Written</hi> Language is tralatitiouſly ſo cal<g ref="char:EOLhyphen"/>led, becauſe it is made to repre<g ref="char:EOLhyphen"/>ſent to the Eye the ſame Letters and Words, which are pronounc<g ref="char:EOLhyphen"/>ed.</p>
+            <p>And by theſe the <hi>Tongue</hi> and <hi>Pen</hi> doe mutually correſpond, and aſſiſt one another, Writing what we ſpeak, and Speaking what we write. And (as was ſaid of the Senſes, to which they ſerve) they ſupply the defects of each other by the peculiar priviledges of ei<g ref="char:EOLhyphen"/>ther. Swift, and ready, and famili<g ref="char:EOLhyphen"/>ar Communication is made by Speech, and when animated by Elocution, it acquires a greater life, and energie, raviſhing and
+<pb n="9" facs="tcp:49742:9"/>captivating the Hearers. But then, Speech is confined to the Living, and imparted to onely thoſe, that are in preſence, and is tranſient and gone. <hi>Written</hi> Language, as it is more Operous, ſo it is more digeſted, and is permanent, and it reacheth the abſent, and poſte<g ref="char:EOLhyphen"/>rity, and by it we ſpeak after we are dead.</p>
+            <p>Now, as I ſaid, the Original of theſe Signes for Communication is found in <hi>Viva voce,</hi> in <hi>ſpoken Language,</hi> and therefore 'tis <hi>Speech</hi> we now chiefly conſider, I mean the Principles thereof, which are <hi>Letters.</hi> Now theſe Letters conſi<g ref="char:EOLhyphen"/>dered, as to their <hi>Geneſis, i. e.</hi> as they are made and fram'd by ſeve<g ref="char:EOLhyphen"/>ral <hi>Motions</hi> of the parts of the <hi>Mouth,</hi> are the natural Elements of Speech, but the uſe of them is <hi>Ar<g ref="char:EOLhyphen"/>tificial,
+<pb n="10" facs="tcp:49742:10"/>viz.</hi> when they are compo<g ref="char:EOLhyphen"/>ſed, and deſigned by ſeveral Signs of Reſpective Notions: And hence Languages ariſe, when by inſtitution and agreement, ſuch a compoſure of Letters, <hi>i. e.</hi> ſuch a Word is intended to ſignifie ſuch a certain thing. And the Learning of a Language is (or at leaſt needs be) nothing elſe, but the inform<g ref="char:EOLhyphen"/>ing our ſelves, and remembring what Compoſures of Letters are, by conſent and Inſtitution, to ſignifie ſuch certain Notions of things, with their Modalities and Accidents: I ſay, the <hi>Motions</hi> of the <hi>Mouth</hi> (ſpeaking largely) by which the voice is diſcriminated, and the Sound thereof in diſtinct formes received by the Ear, ac<g ref="char:EOLhyphen"/>cording to the number of their variety, are the <hi>Natural Elements</hi>
+               <pb n="11" facs="tcp:49742:10"/>of <hi>Speech;</hi> and the Application of them in their ſeveral compo<g ref="char:EOLhyphen"/>ſitions, or Words made of them, to ſignifie things or the Moda<g ref="char:EOLhyphen"/>lities of things, and ſo ſerve for communication of Notions, is <hi>Ar<g ref="char:EOLhyphen"/>tificial.</hi>
+            </p>
+            <p>And the former of theſe, the <hi>Letters,</hi> as they have the natural Production by the ſeveral checks or ſtops, or (as they are uſually called) <hi>Articulations</hi> of the Breath or Voice in their paſſage from the <hi>Larynx</hi> through the Mouth or Noſe, made by the inſtruments of Speech, are the ſubject of this preſent <hi>Eſſay.</hi> Worthy indeed of better conſideration, as being the <hi>firſt Elements of all Humane Learn<g ref="char:EOLhyphen"/>ing,</hi> (to ſay nothing of the Propa<g ref="char:EOLhyphen"/>gation and Conſervation there<g ref="char:EOLhyphen"/>of;) and by which having once
+<pb n="12" facs="tcp:49742:11"/>ſurveyed the true and proper na<g ref="char:EOLhyphen"/>tural <hi>Alphabet,</hi> we may eaſily diſ<g ref="char:EOLhyphen"/>cover the Deviations from it in the Characters thereof, in all the Al<g ref="char:EOLhyphen"/>phabets in uſe: Either by Defect of ſingle Characters of Letters; or by Confuſion of them; or by expreſſing the Power of ſingle Letters by unapt Compoſitions; or by an abſurd reception of dou<g ref="char:EOLhyphen"/>ble Letters, into the number of the Elements, which ought to be onely ſingle and original; or laſt<g ref="char:EOLhyphen"/>ly by the incongruous pronun<g ref="char:EOLhyphen"/>ciations of ſeveral Letters, as they lie deſcribed to the Eye by Sym<g ref="char:EOLhyphen"/>bols or Characters of the Alpha<g ref="char:EOLhyphen"/>bet of ſeveral Languages, which indeed ought to be only one, or at leaſt all to be perfectly corre<g ref="char:EOLhyphen"/>ſpondent each to other, accord<g ref="char:EOLhyphen"/>ing to their Origine in nature,
+<pb n="13" facs="tcp:49742:11"/>though expreſſed by ſeveral Cha<g ref="char:EOLhyphen"/>racters, after the humour and fan<g ref="char:EOLhyphen"/>cy of ſeveral Nations. Though it were much to be wiſhed, that, as there is but one ſingle way (where<g ref="char:EOLhyphen"/>of we are now treating) of the na<g ref="char:EOLhyphen"/>tural production of Letters, where<g ref="char:EOLhyphen"/>by to convey our thoughts by the ſound of Speech to the Ears of them that hear us; ſo there were throughout the world but one ſort of Character for each Let<g ref="char:EOLhyphen"/>ter, to expreſs it to the Eye, and that exactly proportioned to the Natural Alphabet formed in the Mouth. This, though diverſity of Languages continue, yet would render them much more eaſie to be learned, as to reading and pro<g ref="char:EOLhyphen"/>nouncing of them, and eſpecially as to the Writing of them, which now, as they ſtand, we find to be
+<pb n="14" facs="tcp:49742:12"/>troubleſome and difficult, and it is no ſmall part of <hi>Grammar,</hi> which treats of <hi>Orthography</hi> and <hi>right pronunciation.</hi>
+            </p>
+            <p>And truly the Diſorder, into which the <hi>Alphabet</hi> is put, by the ſeveral ways fore-mentioned, ſeems to me of the ſame kind, though not ſo great, as if ſeve<g ref="char:EOLhyphen"/>ral Nations, uſing the ſame Cha<g ref="char:EOLhyphen"/>racters, ſhould apply them differ<g ref="char:EOLhyphen"/>ently, and that Sound, which one deſcribes by B, another ſhould do the ſame by C. <hi>&amp;c.</hi> which by private conſent hath been ſome<g ref="char:EOLhyphen"/>times uſed in dangerous times, onely to obſcure their writing, and make it hard to be read by others not acquainted with the in<g ref="char:EOLhyphen"/>trigue, but is quite contrary to a<g ref="char:EOLhyphen"/>ny intention of advancing the fa<g ref="char:EOLhyphen"/>cility of Learning.</p>
+            <pb n="15" facs="tcp:49742:12"/>
+            <p>But the chief deſign here in<g ref="char:EOLhyphen"/>tended by this accompt of the <hi>Natural Alphabet,</hi> is, to prepare a more eaſie and expedite way to inſtruct ſuch as are <hi>Deaf</hi> and <hi>Dumb,</hi> and Dumb onely by con<g ref="char:EOLhyphen"/>ſequence of their want of Hear<g ref="char:EOLhyphen"/>ing, (by ſhewing them the pro<g ref="char:EOLhyphen"/>per figures of the motions of the Organs, whereby Letters are fra<g ref="char:EOLhyphen"/>med) to be able to pronounce all Letters, and Syllables, and Words, and in a good meaſure to diſcern them by the Eye, when pro<g ref="char:EOLhyphen"/>nounced by another.</p>
+            <p>And although this cannot be directly and immediately taught, and learnt, as to every particular Letter of the Alphabet (as will be ſufficiently manifeſt in the en<g ref="char:EOLhyphen"/>ſueing diſcourſe) yet He, who has this exact knowledge of the
+<pb n="16" facs="tcp:49742:13"/>Nature and Difference of Let<g ref="char:EOLhyphen"/>ters, by knowing withal, what can be readily done, and what cannot be immediately perform<g ref="char:EOLhyphen"/>ed; will be able to purſue ſuch an attempt with ſteadineſs; and having made his firſt progreſs in what is obvious and feſible; will then (without expence of fruit<g ref="char:EOLhyphen"/>leſs labour) proceed to ſeek out and invent other ways to com<g ref="char:EOLhyphen"/>paſs about and accompliſh his de<g ref="char:EOLhyphen"/>ſigned effect.</p>
+            <p>And by theſe wayes (as I my ſelf have made ſome experiment) it is not impoſſible, no nor very difficult to be done, even in thoſe who were born Deaf and Dumb.</p>
+            <p>By what has bin premiſed, we may define <hi>Language</hi> (if we con<g ref="char:EOLhyphen"/>ſider it more materially) to be <hi>An apt Connexion of Letters,
+<pb n="17" facs="tcp:49742:13"/>forming and producing Words and Sentences.</hi> But if we conſider it more according to the Reaſon and Deſign thereof, then <hi>Lan<g ref="char:EOLhyphen"/>guage is the moſt excellent Inſtru<g ref="char:EOLhyphen"/>ment for Communication. Or, a connexion of the apt ſignes for Communication of our Thoughts and Notions.</hi> And <hi>Speaking</hi> is no<g ref="char:EOLhyphen"/>thing elſe, than <hi>A ſenſible Expreſ<g ref="char:EOLhyphen"/>ſion and Communication of the Notions of the Mind by ſeveral Diſcriminations of utterance of voice,</hi> uſed as Signes <hi>i. e.</hi> having, by Conſent, ſeveral determinate ſignificancies.</p>
+            <p>The <hi>Matter</hi> or Store, out of which theſe ſignes are framed, is the <hi>Alphabet,</hi> that is, the variety of ſingle different Letters, which Letters ariſe from the firſt ori<g ref="char:EOLhyphen"/>ginal diſcriminations of voice, by
+<pb n="18" facs="tcp:49742:14"/>way of Articulation, whereby the Ear is able to judge and ob<g ref="char:EOLhyphen"/>ſerve the differences of vocal Sounds. And as many ſuch diffe<g ref="char:EOLhyphen"/>rent ſounds as can be made by ſin<g ref="char:EOLhyphen"/>gle Articulations, ſo many Letters there are in the ſtore-houſe of Nature, out of which to frame Signes for Communication by way of Speech or Language.</p>
+            <p>I ſaid, <hi>Articulation,</hi> becauſe there may be other ways of diſ<g ref="char:EOLhyphen"/>criminating the voice, <hi>E. G.</hi> by <hi>Acuteneſs</hi> and <hi>Gravity,</hi> the ſeveral degrees of riſing and falling from one Tone or Note to another; and the ſeveral Kinds of Mea<g ref="char:EOLhyphen"/>ſures, Paſſions, Moods, Ayre, <hi>&amp;c.</hi> out of which it were eaſie to frame a kind of Language, with<g ref="char:EOLhyphen"/>out Words, though not ſo Ex<g ref="char:EOLhyphen"/>pedite nor Comprehenſive as the other.</p>
+            <pb n="19" facs="tcp:49742:14"/>
+            <p>Now to deſcribe accurately the differences, by which the <hi>Formal Reaſon</hi> of every letter is conſtituted, however it ſeem at the firſt apprehenſion familiar and ea<g ref="char:EOLhyphen"/>ſie, and no one but can ſay ſome<g ref="char:EOLhyphen"/>thing towards it; yet upon better conſideration will be found very difficult: Becauſe the Motions and Figures <hi>within</hi> the mouth are abſtruſe, annd not eaſie to be di<g ref="char:EOLhyphen"/>ſtinguiſhed, eſpecially thoſe of the Tongue, and ſeveral parts of it, which is moved, through the help of many Muſcles, ſo eaſily, and Habitually, and variouſly, that we are ſcarce able to give a judgement and deſcription of divers Motions and Figures thereby framed in the Mouth: And alſo becauſe moſt are apt to ſeek all the Differences of Let<g ref="char:EOLhyphen"/>ters
+<pb n="20" facs="tcp:49742:15"/>in thoſe Articulating Moti<g ref="char:EOLhyphen"/>ons, whereas ſeveral Combinati<g ref="char:EOLhyphen"/>ons of Letters are framed by the very ſame Motions of thoſe Or<g ref="char:EOLhyphen"/>gans, which are commonly ob<g ref="char:EOLhyphen"/>ſerved, and are differenced (as ſhall be ſhewn) by other con<g ref="char:EOLhyphen"/>current cauſes. And laſtly, by reaſon of the Prepoſſeſſion of the Judgement of moſt men from their Infant-breeding, of which I have met with much Experi<g ref="char:EOLhyphen"/>ence; and it may be ſeen in the writings of ſome Learned men, who coming to treat of the Na<g ref="char:EOLhyphen"/>ture of Letters, ſpeak of them by Tradition, as of ſome remote exotick thing, whereof we had no knowledge, but by uncertain fabulous relations. And although I have bin told of ſome more accurate Authors, who take not
+<pb n="21" facs="tcp:49742:15"/>the vulgar Alphabets and Rudi<g ref="char:EOLhyphen"/>ments of Grammar for their Ca<g ref="char:EOLhyphen"/>non; yet I have refrained to look into them, for fear of being led away by other men's fancies; whereas I rather choſe to con<g ref="char:EOLhyphen"/>ſult Nature at Hand. And here<g ref="char:EOLhyphen"/>in I cannot hope to have eſcaped all prejudicies of fancy, but do willingly ſubmit thoſe miſtakes, into which I may have fallen, to the better conſideration of o<g ref="char:EOLhyphen"/>thers, who ſhall have made re<g ref="char:EOLhyphen"/>ſearch into this buſineſs with more felicity. And certainly the free thoughts of many ſeparate perſons uſing diligence herein, compared together, ſelect choice being made of the moſt happy adventures in each of their ſeve<g ref="char:EOLhyphen"/>ral <hi>Hypotheſes,</hi> is the ſureſt way to advance this kind of Eſſay to a
+<pb n="22" facs="tcp:49742:16"/>good perfection. To which, if any thing be contributed by this that I have done, I ſhall not wholly have miſſed my end.</p>
+            <p>Of <hi>Letters</hi> the <hi>Material</hi> part is <hi>Breath</hi> and <hi>Voice;</hi> the <hi>Formal</hi> part is conſtituted by the <hi>Motions</hi> and <hi>Figures</hi> of the <hi>Organs</hi> of <hi>Speech,</hi> affecting the Breath or Voice with a peculiar ſound, by which each Letter is diſcriminated. For either of theſe there are proper Organs. For the Former, the <hi>Lungs, Aſpera Arteria, Larynx, <g ref="char:V">Ʋ</g>vula, Noſe,</hi> and the whole <hi>Arch</hi> of the <hi>Palate</hi> or Roof of the Mouth. The <hi>Lungs</hi> are as <hi>Bel<g ref="char:EOLhyphen"/>lows,</hi> which ſupply a force of Breath: the <hi>Aſphera Arteria</hi> is as the noſe of <hi>Bellows,</hi> or as a chan<g ref="char:EOLhyphen"/>nel in the ſound Board of an Organ, to collect and conveigh the
+<pb n="23" facs="tcp:49742:16"/>Breath, and ſomewhat more, by a power of contracting and dila<g ref="char:EOLhyphen"/>ting it ſelf, which thoſe have not.</p>
+            <p>The <hi>Larynx</hi> both gives <hi>paſſage</hi> to the Breath, and alſo, as often as we pleaſe, by the force of Muſcles, to bear the ſides of the <hi>Larynx</hi> ſtiffe and near toge<g ref="char:EOLhyphen"/>ther, as the Breath paſſeth through the <hi>Rimula,</hi> makes a vibration of thoſe Cartilaginous Bodies which forms that Breath, into a Vocal ſound or Voice, which by the <hi>Palate,</hi> as a <hi>Chelis</hi> or ſhell of a Lute, is ſweetened and augment<g ref="char:EOLhyphen"/>ed. The <hi>
+                  <g ref="char:V">Ʋ</g>vula,</hi> as a Valve, o<g ref="char:EOLhyphen"/>pens and ſhuts the paſſage of Breath or Voice through the Noſe. The <hi>Noſe,</hi> ſometimes gi<g ref="char:EOLhyphen"/>ving paſſage to Breath or Voice, in ſpeaking alters their ſound,
+<pb n="24" facs="tcp:49742:17"/>and gives a Material diſcrimina<g ref="char:EOLhyphen"/>tion, by which the general ſound of Breath or Voice may be di<g ref="char:EOLhyphen"/>ſtinguiſhed into <hi>Oral,</hi> or <hi>Naſall,</hi> or, (to ſpeak more accurately) <hi>Ore-Naſal.</hi> And thus alſo the <hi>Whole mouth,</hi> as it gives paſſage to Breath and Voyce, and a di<g ref="char:EOLhyphen"/>ſtinct ſound, from that of the Noſe, ought to be accompted one of the Organs of the Material part of Letters.</p>
+            <p>By the way obſerve, that Let<g ref="char:EOLhyphen"/>ters may be framed by Articu<g ref="char:EOLhyphen"/>lation of onely Breath, for ſecret communication near at hand, as in <hi>whiſpering.</hi> But the moſt uſeful way of eaſie and free communi<g ref="char:EOLhyphen"/>cation, being by the Voyce, and the Motions being the ſame in <hi>whiſpering</hi> and in <hi>ſpeaking,</hi> it is in<g ref="char:EOLhyphen"/>tended here, to conſider <hi>vocal</hi>
+               <pb n="25" facs="tcp:49742:17"/>Speech alone, as that to which this Diſcourſe refers. Though it be true (and ought to be well heeded) that divers letters have no Vocal ſound, if pronounced alone, but do immediately affect the vocal ſound of other Letters, to which they are joyned in Spech, by affecting firſt the Breath in their own proper Motions and Figures, ſuch are F. S, and ſome others. The Organs of the Later, the <hi>Formal part</hi> of Letters, are the <hi>Tongue, Palate, Goums, Jaw, Teeth, Lips.</hi> Of which the <hi>Tongue</hi> and <hi>under-Lip,</hi> and <hi>nether-jaw</hi> are <hi>moveable.</hi> The reſt are immovea<g ref="char:EOLhyphen"/>ble, <hi>viz.</hi> as to their uſe in ſpeech. Articulations are made by the Mo<g ref="char:EOLhyphen"/>tions of the <hi>moveable</hi> Organs to, or towards the <hi>Immoveable.</hi> As, the <hi>Tongue,</hi> (which is the
+<pb n="26" facs="tcp:49742:18"/>chief inſtrument of Speech) is eve<g ref="char:EOLhyphen"/>ry way moved in its parts to and from all parts of the Palate, and Goums, and upper Teeth, except the very cavity or Arch of the Pa<g ref="char:EOLhyphen"/>late, which is always kept open to help the ſound. The under lip is moved to the upper lip, or upper Teeth. And theſe motions are attended by the motions of the nether-jaw.</p>
+            <list>
+               <item>Of Letters
+<list>
+                     <item>The Mate<g ref="char:EOLhyphen"/>rial Cauſe is Breath and Voice whole Organs are the
+<list>
+                           <item>Oral.</item>
+                           <item>Naſal.
+<list>
+                                 <item>Lungs.</item>
+                                 <item>Aſpera Arteria.</item>
+                                 <item>Larynx.</item>
+                                 <item>Palat's Arch, or Roofe.</item>
+                                 <item>Uvula.</item>
+                                 <item>Noſe.</item>
+                                 <item>Whole mouth.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>The <hi>Formal</hi> Cauſe is Atticulation of Breath and Voice whoſe Organs are
+<list>
+                           <item>Moveable.
+<list>
+                                 <item>Tongue.</item>
+                                 <item>Under Lip.</item>
+                                 <item>Nether Jaw.</item>
+                              </list>
+                           </item>
+                           <item>Immoveable.
+<list>
+                                 <item>Palat.</item>
+                                 <item>Goums.</item>
+                                 <item>Upper-Lip.</item>
+                                 <item>Upper Teeth,</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>In the framing of every Letter, there is an Articulation (though
+<pb n="27" facs="tcp:49742:18"/>not to every Letter a <hi>ſeveral</hi> Ar<g ref="char:EOLhyphen"/>ticulation; for ſometimes two or three have the ſame, and are differenced onely by their mate<g ref="char:EOLhyphen"/>rial cauſes.) By <hi>Articulation</hi> I mean a peculiar Motion and Fi<g ref="char:EOLhyphen"/>gure of ſome parts belonging to the Mouth between the Throat and Lips, whereof ſome are more eaſie to be diſcerned and deſcrib<g ref="char:EOLhyphen"/>ed; as thoſe made with the Lips, P. B. M: with the Lip and Teeth, F.V: with the Tongue and Teeth, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>i. e. th. dh.</hi> and thoſe with the Tongue and Goums, and Tongue and Palate, which are cloſe ſtop<g ref="char:EOLhyphen"/>ped, as T. D. N; KG. NG. The reſt are more difficult, and moſt of all the Vowels, where there are peculiar Figures of the Cavi<g ref="char:EOLhyphen"/>ty of the Mouth, between the Tongue and the Arch of the
+<pb n="28" facs="tcp:49742:19"/>Palate, whilſt the Tongue moves into a Poſture required to each Vowel, which is made without the Lips.</p>
+            <p>That I may be the eaſier un<g ref="char:EOLhyphen"/>derſtood, I do comply with the Antients, in diſtinguiſhing Letters into <hi>Vowels</hi> and <hi>Conſonants;</hi> yet not wholly upon their reaſon, <hi>viz.</hi> That a <hi>Vowel</hi> may be ſound<g ref="char:EOLhyphen"/>ed alone, a <hi>Conſonant</hi> not with<g ref="char:EOLhyphen"/>out a <hi>Vowel;</hi> which if examined will not be found all true, for many of the Conſonants may be ſounded alone, and ſome joyned together, without a Vowel, as <hi>Bl, St;</hi> and as we pronounce the later Syllable of <hi>People, Rifle,</hi> &amp;c. though it be true of ſome Con<g ref="char:EOLhyphen"/>ſonants, as the Mutes, P. T. K. that they can make no ſound a<g ref="char:EOLhyphen"/>lone: But from another differ<g ref="char:EOLhyphen"/>ence,
+<pb n="29" facs="tcp:49742:19"/>which is, That in all <hi>Vow<g ref="char:EOLhyphen"/>els</hi> the paſſage of the mouth is open and free, without any ap<g ref="char:EOLhyphen"/>pulſe of an Organ of Speech to another: But in all <hi>Conſonants,</hi> there is an Appulſe of the Or<g ref="char:EOLhyphen"/>gans, ſometimes (if you abſtract the Conſonants from the Vowels) wholly precluding all ſound; and in all of them, more or leſs, check<g ref="char:EOLhyphen"/>ing and abating it.</p>
+            <p>Now from hence ariſeth the facility of joyning a Conſonant to a Vowel, becauſe from an Ap<g ref="char:EOLhyphen"/>pulſe to no Appulſe (or an Ap<g ref="char:EOLhyphen"/>perture) is eaſier, (becauſe the Motion is not half ſo much,) than from one Appulſe to ano<g ref="char:EOLhyphen"/>ther. And we find in the Moti<g ref="char:EOLhyphen"/>ons from one Appulſe to another, in joyning of Conſonants, ſome (according to their eaſier aptneſs
+<pb n="30" facs="tcp:49742:20"/>of Notion, or nearneſs of Nature or ſituation) to be readyer and eaſier joyned in one ſyllable, than others: Which made that obſer<g ref="char:EOLhyphen"/>vation of the <hi>Grammarians,</hi> of the eaſie pronunciation of a Mute be<g ref="char:EOLhyphen"/>fore a Liquid, which do not there<g ref="char:EOLhyphen"/>fore neceſſarily make the Prece<g ref="char:EOLhyphen"/>ding <hi>Vowel,</hi> by poſition, long in Quantity, as <hi>Patrem.</hi>
+            </p>
+            <p>The Diſtinction of <hi>Articulation of Breath</hi> and the <hi>Articulation of Voice</hi> muſt be well heeded, be<g ref="char:EOLhyphen"/>cauſe in it conſiſts the onely dif<g ref="char:EOLhyphen"/>ference of many Letters, as ſhall be ſhewn. For it is one thing, to <hi>Breath,</hi> or give an Impulſe to breath alone; another thing, to <hi>vocalize</hi> that breath, <hi>i. e.</hi> in its paſſage through the <hi>Larynx</hi> to give it the ſound of Humane Voyce. As through a Horne or
+<pb n="31" facs="tcp:49742:20"/>Cornet, or Trumpet, you may, if you pleaſe, emit onely Breath without any other ſound than of wind; or you may with the ſame Breath, regularly blown, raiſe the proper voice or ſound of thoſe Inſtruments. <hi>Breath</hi> then muſt be underſtood diſtinctly from <hi>Breath vocalized,</hi> or Hu<g ref="char:EOLhyphen"/>mane voice, and either of them in their diſtinct Beings and Sounds may be, and are Articulated by the Motions of the Organs.</p>
+            <p>Now, though ſeveral ſingle Let<g ref="char:EOLhyphen"/>ters nakedly conſidered, are found to be Articulations onely of Spi<g ref="char:EOLhyphen"/>rit or Breath, and not of Breath <hi>vocalized</hi> (as appears if you pronounce S. F. <hi>&amp;c.</hi> abſtract<g ref="char:EOLhyphen"/>ed from all vowels) yet there is that property in all Letters, of Aptneſs to be conjoyned in <hi>Syl<g ref="char:EOLhyphen"/>lables</hi>
+               <pb n="32" facs="tcp:49742:21"/>and <hi>Words,</hi> through the vo<g ref="char:EOLhyphen"/>luble motions of the Organs from one ſtop or figure to another, that they modify and diſcriminate the Voice without appearing to diſcontinue it. And ſo Letters may well enough be termed <hi>Ar<g ref="char:EOLhyphen"/>ticulations of Voice</hi> in reſpect of Speech, which yet in their own ſimple abſtracted Nature are but <hi>Articulations of Breath.</hi>
+            </p>
+            <p>To come now nearer to our Inquiry into the <hi>Production of Letters,</hi> we are firſt to in<g ref="char:EOLhyphen"/>veſtigate the <hi>variety</hi> of <hi>Moti<g ref="char:EOLhyphen"/>ons,</hi> and <hi>Figures,</hi> made by the Organs, which ſerve for Articu<g ref="char:EOLhyphen"/>lation. And then the <hi>Variety</hi> of <hi>Matter,</hi> to which thoſe Articu<g ref="char:EOLhyphen"/>lations are ſeverally applyed. For it will be found, that the ſame Articulation makes Impreſſions
+<pb n="33" facs="tcp:49742:21"/>of different ſounds, or (which is the ſame) Letters, according as the ſubject matter, which is to be Articulated, is different: as one and the ſame Seal, imprinted up<g ref="char:EOLhyphen"/>on ſeveral pieces of wax of dif<g ref="char:EOLhyphen"/>ferent colours, as Yellow, Red, Green, Black, will make ſo ma<g ref="char:EOLhyphen"/>ny diſtinct ſigns (if ſignificati<g ref="char:EOLhyphen"/>ons be impoſed upon them) to the Eye, as there are different Colours in the Matter, or Wax, which receive the ſame Impreſ<g ref="char:EOLhyphen"/>ſion. Thus the ſame Articulation; if of <hi>Breath,</hi> makes one letter; if of <hi>Breath vocalized,</hi> or voice, another; If of <hi>voice Naſall (i.e.</hi> when the <hi>
+                  <g ref="char:V">Ʋ</g>vula</hi> is opened, and the voice paſſeth into the Mouth, and is there Articulated, and at the ſame time hath a free paſ<g ref="char:EOLhyphen"/>ſage through the Noſe) then it
+<pb n="34" facs="tcp:49742:22"/>makes another; and laſtly, if of <hi>Breath Naſal,</hi> then another. Thus the <hi>Matter</hi> of Sound, which is to be diſcriminated by Articulation, if it be of four kinds, <hi>Spirital, Vocal, Naſo-ſpirital, Naſo-vocal,</hi> (it is for ſhortneſs-ſake, that I do not ſtile them more accurately, <hi>viz. Ore-Spirital, Ore-Naſal, Ore-Naſo-Spiri<g ref="char:EOLhyphen"/>tal, Ore-Naſo-Vocal;</hi>) then every Ar<g ref="char:EOLhyphen"/>ticulation may produce four Let<g ref="char:EOLhyphen"/>ters. But the deſign of Speaking, being to Communicate our Thoughts, by ready, eaſie, and graceful Pronunci-ation, all kind of Letters have been ſearched out, that were ſerviceable for the pur<g ref="char:EOLhyphen"/>poſe, as Commodious Elements of Speech, and ſuch diſcriminations as were not ſo, whereof many may be found, (all Articulations not ſuiting with all matter) they were left out and laid aſide.</p>
+            <pb n="35" facs="tcp:49742:22"/>
+            <p>All Articulation is made <hi>with<g ref="char:EOLhyphen"/>in</hi> the mouth, from the Throat to the Lips incluſively, and is dif<g ref="char:EOLhyphen"/>ferenced partly by the Organs and ſeveral parts of Organs (al<g ref="char:EOLhyphen"/>ready deſcribed) uſed in it; and partly by the manner and de<g ref="char:EOLhyphen"/>gree of Articulating: which later is, either by <hi>Appulſe, i. e.</hi> when one of the moveable Organs toucheth, and reſts upon ſome of thoſe, that are Immoveable; Or elſe onely by inclination of the moveable Organ to the immovea<g ref="char:EOLhyphen"/>ble, <hi>without Appulſe,</hi> the paſſage through the mouth remaining free and open. If there be no Appulſe of one Organ to another, the Letters by other ſeveral poſtures and inclinations of the Organs are <hi>vowels.</hi> But when there is an Appulſe of one Organ to ano<g ref="char:EOLhyphen"/>ther,
+<pb n="36" facs="tcp:49742:23"/>the Letters, which are ſo framed, are <hi>Conſonants.</hi> Again, the Appulſe is either <hi>plenary</hi> and <hi>occluſe,</hi> ſo as wholly to preclude all paſſage of Breath or Voice through the mouth; or elſe <hi>parti<g ref="char:EOLhyphen"/>al</hi> and <hi>pervious,</hi> ſo as to give them ſome paſſage out of the mouth: and this later affects the Sound di<g ref="char:EOLhyphen"/>vers ways, giving it a Lisping, or Hiſſing, or elſe emitting it ſmooth, or elſe jarring.</p>
+            <p>The nature of <hi>Conſonants</hi> be<g ref="char:EOLhyphen"/>ing framed by Appulſe, is (as was ſaid before) much eaſier to be diſcerned, than that of the <hi>Vowels.</hi> I ſhall therefore indeavour, firſt to deſcribe their differences, and how they are framed; taking the number of Conſonants, not from the <hi>Grammatical Alphabets</hi> of any Language, but from the <hi>diverſity
+<pb n="37" facs="tcp:49742:23"/>of Sounds</hi> framed by ſingle Arti<g ref="char:EOLhyphen"/>culations with Appulſe, which I find in any uſage; eſpecially in our, and neighbouring Nations, ſuch as are moſt needful for any among us, that are Deaf and Dumb, to learn. And thus they ordinarily amount to 19. beſides 2 or 3 more (to be ſpoken of in their place) which will be found among the Vowels: omitting ſome other uneaſie Letters, which I ſhall after deſcribe, and poſſi<g ref="char:EOLhyphen"/>bly may be in uſe with ſome Nations.</p>
+            <p>If a cloſe Appulſe be made by the Lips, <hi>viz.</hi> by the Under-Lip, to the Upper-Lip, then is framed P, or B, or M; if it be made by the end of the Tongue to the Goums, T. or. D. or N. If by the Boſſe of the Tongue to the
+<pb n="38" facs="tcp:49742:24"/>Palate, near the Throat, then K. or G. or N<hi rend="sup">ĝ</hi>. ſo there are 9 Con<g ref="char:EOLhyphen"/>ſonants made by <hi>cloſe Appulſe,</hi> and they evidently anſwer one an<g ref="char:EOLhyphen"/>other in their Properties; whe<g ref="char:EOLhyphen"/>ther you compare them in <hi>re<g ref="char:EOLhyphen"/>ſpect of the Organs,</hi> the 3 Labial B. P. M. are Parallel to the 3 <hi>Gingival</hi> T. D. N, and to the 3 Palatick K. G. N<hi rend="sup">ĝ</hi>; or whether in <hi>reſpect of Sound;</hi> P. T. K. are Ar<g ref="char:EOLhyphen"/>ticulations of Breath; B. D. G. (if you compare B to P; D to T; and G to K;) are made with the very ſame Appulſe and Motion of the Organ; and are differenc<g ref="char:EOLhyphen"/>ed onely by being Articulations of Voice, or Breath vocalized: which is eaſily diſcerned, if you ſtrive to pronounce P. abſtracted without a Vowel, then it will be wholly <hi>Mute,</hi> becauſe it is no<g ref="char:EOLhyphen"/>thing
+<pb n="39" facs="tcp:49742:24"/>but Breath ſtopt: but if you in the ſame manner go to pronounce B, there will be a <hi>murmuring</hi> ſound of the Voice, formed in the <hi>Larynx,</hi> and paſſing till it be ſtopt by the Appulſe of the Lips. And ſo of the reſt.</p>
+            <p>M.is an Articulation of voice, by cloſe Appulſe of the Lips; ſo far perfectly the ſame with B: but there is this difference added, that at the ſame time, paſſage is open<g ref="char:EOLhyphen"/>ed for the Voice through the <hi>Noſe.</hi> And the like is N. in the Goums, and N<hi rend="sup">ĝ</hi> in the Palat. Thus in <hi>reſpect</hi> of <hi>Appulſe of Or<g ref="char:EOLhyphen"/>gan</hi> P. B. M. are the ſame; and T. D. N. and K. G. N<hi rend="sup">ĝ</hi>. In <hi>reſpect of matter of ſound</hi> P. T. K. do perfectly agree, and likewiſe B. D. G. and M. N. N<hi rend="sup">g</hi>'. And in <hi>re<g ref="char:EOLhyphen"/>ſpect of the manner, viz.</hi> Cloſe<g ref="char:EOLhyphen"/>neſs
+<pb n="40" facs="tcp:49742:25"/>of the Appulſe, they <hi>all</hi> agree. And theſe 3 properties ſufficient<g ref="char:EOLhyphen"/>ly diſcover the Nature of theſe 9 Conſonants, and therewithal, how properly N<hi rend="sup">ĝ</hi> is ranged amongſt Original letters.</p>
+            <p>
+               <table>
+                  <head>See in a Scheme.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">Mute</cell>
+                     <cell role="label">Murmur<g ref="char:EOLhyphen"/>mute</cell>
+                     <cell role="label">Naſo<g ref="char:EOLhyphen"/>vocal.</cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell rows="4">Letters framed by <hi>Ap<g ref="char:EOLhyphen"/>pulſe.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Occluſe,</cell>
+                     <cell>Labial</cell>
+                     <cell>P</cell>
+                     <cell>B</cell>
+                     <cell>M</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Gingival.</cell>
+                     <cell>T</cell>
+                     <cell>D</cell>
+                     <cell>N</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Pervious.</cell>
+                     <cell>Palatick</cell>
+                     <cell>K</cell>
+                     <cell>G</cell>
+                     <cell>N<hi rend="sup">ĝ</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>The other ſort of Appulſe is <hi>partial</hi> and <hi>pervious,</hi> giving ſome paſſage to <hi>Breath</hi> and <hi>Voice:</hi> of which kind, Two are made to the upper Teeth, and cauſe a Lisp<g ref="char:EOLhyphen"/>ing ſound, the Breath being ſtrein<g ref="char:EOLhyphen"/>ed through the Teeth. One whereof is of the under Lip to the upper Teeth, which, if Breath onely paſs, makes F. but if the
+<pb n="41" facs="tcp:49742:25"/>Breath be vocalized, the ſame Appulſe makes V. Another is of the Tongue to the upper Teeth, and in like manner with the form<g ref="char:EOLhyphen"/>er, makes <hi>Th,</hi> and <hi>Dh.</hi> or θ. ϑ, which ſo juſtly correſpond with F. and V. and are made by ſingle pro<g ref="char:EOLhyphen"/>per motions of the Organ, that they muſt needs be acknowledg<g ref="char:EOLhyphen"/>ed <hi>Letters,</hi> and not to be com<g ref="char:EOLhyphen"/>pounded of T and H, or D and H, but require to be deſcribed by ſingle proper Characters, as well as other Letters. I would de<g ref="char:EOLhyphen"/>ſcribe them by θ and ϑ.</p>
+            <p>And thus far the nature of theſe 13 <hi>Conſonants</hi> lies fair to be per<g ref="char:EOLhyphen"/>ceived, becauſe the Appulſe is ſo manifeſt, being either cloſe, as in the former 9; or Bold and forward to the Teeth, as the other 4.</p>
+            <p>Next, there is a <hi>Partial Pervi<g ref="char:EOLhyphen"/>ous
+<pb n="42" facs="tcp:49742:26"/>Appulſe</hi> of the End of the Tongue to the Goums, giving the <hi>Breath</hi> a ſtreight paſiage there, by which a hiſſing ſound is made; the ſides of the Tongue at the ſame time reſting firmly on the ſide-Teeth. And by this, if Breath alone paſs, is made the Letter S; but if Breath vocalized, then the poſture and motion makes Z. Again, the end of the Tongue born more downwards, and the middle of it born up nearer the Palate, the ſides reſting on the Teeth, makes, if the Breath paſs, <hi>Sh,</hi> or, if Breath vocalized, <hi>Zh.</hi> which is properly that, which is deſigned by J conſonant, as <hi>For<g ref="char:EOLhyphen"/>reiners</hi> pronounce it. The Figures in the mouth of <hi>Zh.</hi> and the vowel I, are much alike, which might give occaſion of ſupplying <hi>Zh.</hi> by
+<pb n="43" facs="tcp:49742:26"/>the character of J Conſonant: And the vowel I, partaking alſo of the nature of a Conſonant, added to Z, comes very near to the ſound of <hi>Zh,</hi> as <hi>Zya;</hi> but this hath ſome<g ref="char:EOLhyphen"/>thing more of <hi>Gingival</hi> Figure in it.</p>
+            <p>Thus we have 17 <hi>Conſonants,</hi> which bear a certain Analogie; out of which, if you take M. N. Ng, there remain ſeven pairs, of which each Letter hath the very ſame motion and Appulſe of the Organs, with his compeer, and differ onely in relation to ſound, one being an Articulation of <hi>Breath,</hi> the other of <hi>Voice,</hi> and they ſtand thus And theſe
+<table>
+                  <row>
+                     <cell>p</cell>
+                     <cell>t</cell>
+                     <cell>k</cell>
+                     <cell>f</cell>
+                     <cell>th</cell>
+                     <cell>s</cell>
+                     <cell>sh</cell>
+                  </row>
+                  <row>
+                     <cell>b</cell>
+                     <cell>d</cell>
+                     <cell>g</cell>
+                     <cell>v</cell>
+                     <cell>dh</cell>
+                     <cell>z</cell>
+                     <cell>zh</cell>
+                  </row>
+               </table> in <hi>Whiſpering,</hi> cannot be diſtin<g ref="char:EOLhyphen"/>guiſhed, except by prejudice of Fancy; but every pair will be the ſame without any difference, and
+<pb n="44" facs="tcp:49742:27"/>conſequently but one Letter. So that the <hi>Language of Whiſpering</hi> is perform'd with 7 Conſonants fewer, than the <hi>Language</hi> of <hi>Speak<g ref="char:EOLhyphen"/>ing.</hi> And I might digreſſe to tell, how ſome of the <hi>Antients</hi> may be thought ſometime to have u<g ref="char:EOLhyphen"/>ſed a leſs number of Letters in their Languages; as may be pro<g ref="char:EOLhyphen"/>ved by the celebration of thoſe, who added to their <hi>Alphabet,</hi> by inventing or bringing other Letters, than they uſed.</p>
+            <p>And for the other 3 Letters M. N. Ng. though they make not ſuch pairs as the other 14, yet they are within the obſervation of not differing by Motion or Po<g ref="char:EOLhyphen"/>ſture from the other cloſe Letters of the ſame Organs, but onely by Sound; the Voice paſſing through the <hi>Noſe,</hi> as hath been ſaid. And
+<pb n="45" facs="tcp:49742:27"/>it were eaſie to add a <hi>Naſal</hi> Let<g ref="char:EOLhyphen"/>ter to each of the other pair of <hi>Lisping</hi> and <hi>Sibilant</hi> Letters, but they are found not to be ſo grace<g ref="char:EOLhyphen"/>fully pronounced, nor ſufficient<g ref="char:EOLhyphen"/>ly diſcriminated in <hi>Pervious</hi> Ap<g ref="char:EOLhyphen"/>pulſes, where the Breath hath paſ<g ref="char:EOLhyphen"/>ſage through the Mouth and Noſe both at once; but onely in the Appulſes, which are <hi>Oc<g ref="char:EOLhyphen"/>cluſe;</hi> where the voice is ſtopt, and onely murmures within the Mouth, and paſſeth freely by the Noſe. And this is the reaſon, there are but 3 <hi>Naſal</hi> Letters common<g ref="char:EOLhyphen"/>ly in uſe, becauſe there are but 3 <hi>occluſe Appulſes.</hi> And here it is remarkable, that in the framing of theſe 17 Conſonants, there are but 7 different Motions or Po<g ref="char:EOLhyphen"/>ſtures of the Organs; and con<g ref="char:EOLhyphen"/>ſequently but 7 Diſcriminations
+<pb n="46" facs="tcp:49742:28"/>ariſing from thence, which are be<g ref="char:EOLhyphen"/>tween the 7 pairs before ſpoken of, each pair from the other, in ſuch order as they are there ſet down.</p>
+            <p>I ſhall adde one Remark more concerning theſe Conſonants, That, whereas I have ſometimes in diſcourſe, put many <hi>ſeveral</hi> perſons to conſider what the dif<g ref="char:EOLhyphen"/>ference might be in any Pair of them, as between P, and B; T, and D, <hi>&amp;c.</hi> And upon tryal they have been ready to fancy, (and I have met with it in the Writings of ſome) that the difference lies in the <hi>manner</hi> of <hi>Appulſe,</hi> one being made by a Fuller or Ranker Ap<g ref="char:EOLhyphen"/>pulſe than the other, or, ſome ſuch thing, which they thought they perceived, but could not well expreſs. The Truth is, There may
+<pb n="47" facs="tcp:49742:28"/>be ſome ſuch little difference, but from another cauſe conſequenti<g ref="char:EOLhyphen"/>al to that which is already aſſign<g ref="char:EOLhyphen"/>ed, which is this: All <hi>Tuneable</hi> Sounds, whereof Humane voice is one, are made by a regular vibration of the ſonorous body, and Undulation of the Air, pro<g ref="char:EOLhyphen"/>portionable to the Acuteneſs or Gravity of the Tone. Now <hi>Breath</hi> flowing in a ſmooth ſtream from the Lungs through the Mouth; and <hi>Voice</hi> from the <hi>Larynx</hi> in a curled vibrated Figure, it may very well be, that <hi>Breath voca<g ref="char:EOLhyphen"/>lized, i. e.</hi> vibrated or undulated, may in a different manner affect the Lips, or Tongue, or Palate (while they ſtop or check it) and impreſs a ſwift tremulous moti<g ref="char:EOLhyphen"/>on, which Breath alone paſſing ſmooth, does not. And ſo we may
+<pb n="48" facs="tcp:49742:29"/>feel within our Mouth, ſome dif<g ref="char:EOLhyphen"/>ference between P and B. which yet is not ſufficient to diſtinguiſh them to the Ear of another per<g ref="char:EOLhyphen"/>ſon; nor of it ſelf to conſtitute them diſtinct Letters of the Al<g ref="char:EOLhyphen"/>phabet; but they are diſtinguiſh<g ref="char:EOLhyphen"/>ed by the Sound made by that Vibration.</p>
+            <p>There remain two odd Con<g ref="char:EOLhyphen"/>ſonants, which have no fellows, nor ſtand in pairs, and thoſe are L and R; both of them <hi>Gingival</hi> in reſpect of the Appulſe of the Organs. L is made by the ſame Appulſe of the end of the Tongue to the Goums, as are T and D; but then the Sides or edges of the Tongue are drawn in, and leave ſmooth and free lateral paſſage for the voice, <hi>i. e.</hi> by the ſides of the mouth, or one of them at
+<pb n="49" facs="tcp:49742:29"/>leaſt. You may eaſily perceive it, if you pronounce L. after, or before T. <hi>Lt. Tl.</hi> where you keep the end of the Tongue ſtill in the very ſame poſture in both Let<g ref="char:EOLhyphen"/>ters, and onely move the ſides of it.</p>
+            <p>R is made by a <hi>Pervious</hi> Ap<g ref="char:EOLhyphen"/>pulſe of the end of the Tongue, with its edge to the Goums, the Tongue being held in that po<g ref="char:EOLhyphen"/>ſture, onely by the force of the <hi>Geneogloſſe,</hi> or <hi>Myleogloſſe</hi> Muſcles, and not reſting any where up<g ref="char:EOLhyphen"/>on the Teeth; except onely touching them looſely, ſo as to cloſe the paſſage of Breath every where by the ſides, and conduct it to the end of the Tongue, And this with a ſtrong Impulſe of Breath vocalized, ſo as to cauſe a trembling and vibration of the
+<pb n="50" facs="tcp:49742:30"/>whole Tongue; which vibration being ſlow, does not <hi>tune</hi> the voice, but make it <hi>jarre;</hi> the Tongue not reſting, but making a light Appulſe in parts of the end of it, and being born ſtiffely, as with a Spring, by the Muſcles, (eſpecial<g ref="char:EOLhyphen"/>ly by the <hi>Geneogloſſe</hi>) and agi<g ref="char:EOLhyphen"/>tated by ſtrong impulſe of Breath. And it is obſervable, that in all the other Conſonants, the <hi>Moveable</hi> Organ reſts and bears ſomewhat ſtrongly upon the <hi>Immoveable;</hi> as is evident in all the 9 Letters made by <hi>cloſe</hi> Appulſe, and in the Four <hi>Dental</hi> Letters, and in L, and laſtly in the Four <hi>Sibi<g ref="char:EOLhyphen"/>lants;</hi> ſome of which laſt being of neareſt Appulſe to R, will ſhew this better by being compared together; e. g. Z. and R. In Z. the Tongue bears firme upon the
+<pb n="51" facs="tcp:49742:30"/>upper ſide-Teeth, and ſo the end of it being a little flatted, is born ſteadily near the Goums, making a <hi>Rimula,</hi> by which the hiſſing ſound is produced, the ſteadineſs of the poſture of the Tongue reſiſting that tremulous vibration, which it ſuffers in pro<g ref="char:EOLhyphen"/>nouncing R. But in R. the Tongue does not reſt or bear as aforeſaid, but is held ſtifly in its whole length by the force of the Muſcles, ſo as when the impulſe of Breath ſtrikes upon the end of the Tongue, where it finds paſſage, it ſhakes and agitates the whole Tongue, whereby the ſound is affected with a trembling jarre. And this is the cauſe, why they, whoſe Muſcles are weak or flac<g ref="char:EOLhyphen"/>cid, are unapt to pronounce this Letter R.</p>
+            <pb n="52" facs="tcp:49742:31"/>
+            <p>Now, as before I gave a Scheme of the <hi>Occluſe</hi> Conſonants with their differences, ſo I ſhall here add one of thoſe, which are <hi>Pervious,</hi> and then all together.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">Blaeſe.</cell>
+                     <cell role="label">Murmure Blaeſe</cell>
+                     <cell role="label">Sibilant</cell>
+                     <cell role="label">Murmure</cell>
+                     <cell role="label">Semi-vocal</cell>
+                     <cell role="label">Semi-vocal</cell>
+                  </row>
+                  <row>
+                     <cell>Letters fra<g ref="char:EOLhyphen"/>med by Ap<g ref="char:EOLhyphen"/>pulſe <hi>Per<g ref="char:EOLhyphen"/>vious.</hi>
+                     </cell>
+                     <cell>Labiodental</cell>
+                     <cell>F.</cell>
+                     <cell>V.</cell>
+                     <cell> </cell>
+                     <cell>Sibi</cell>
+                     <cell>Smcoth</cell>
+                     <cell>jart</cell>
+                  </row>
+                  <row>
+                     <cell>Letters fra<g ref="char:EOLhyphen"/>med by Ap<g ref="char:EOLhyphen"/>pulſe <hi>Per<g ref="char:EOLhyphen"/>vious.</hi>
+                     </cell>
+                     <cell>Lingua-dental</cell>
+                     <cell>Th</cell>
+                     <cell>Dh</cell>
+                     <cell> </cell>
+                     <cell>lant</cell>
+                     <cell>Or free</cell>
+                     <cell>ing</cell>
+                  </row>
+                  <row>
+                     <cell>Letters fra<g ref="char:EOLhyphen"/>med by Ap<g ref="char:EOLhyphen"/>pulſe <hi>Per<g ref="char:EOLhyphen"/>vious.</hi>
+                     </cell>
+                     <cell>Gingival</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>S</cell>
+                     <cell>Z</cell>
+                     <cell>L</cell>
+                     <cell>R</cell>
+                  </row>
+                  <row>
+                     <cell>Letters fra<g ref="char:EOLhyphen"/>med by Ap<g ref="char:EOLhyphen"/>pulſe <hi>Per<g ref="char:EOLhyphen"/>vious.</hi>
+                     </cell>
+                     <cell>Palatic.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>Sh</cell>
+                     <cell>Zh</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+               <pb n="53" facs="tcp:49742:31"/>
+               <table>
+                  <head>APPULSE</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">SOUND</cell>
+                     <cell role="label">ORGAN</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">Or thus more pro<g ref="char:EOLhyphen"/>perly by Sound or MATTER.</cell>
+                  </row>
+                  <row>
+                     <cell>Cloſe</cell>
+                     <cell>P. Mute</cell>
+                     <cell>Labial</cell>
+                     <cell>p.</cell>
+                     <cell>Spirital.</cell>
+                  </row>
+                  <row>
+                     <cell>Cloſe</cell>
+                     <cell>B. Murmure-mute</cell>
+                     <cell>Labial</cell>
+                     <cell>b.</cell>
+                     <cell>Vocator Murmurant</cell>
+                  </row>
+                  <row>
+                     <cell>Cloſe</cell>
+                     <cell>M. Naſo-vocal</cell>
+                     <cell>Labial</cell>
+                     <cell>m.</cell>
+                     <cell>Naſo-vocal.</cell>
+                  </row>
+                  <row>
+                     <cell>Cloſe</cell>
+                     <cell>T. Mute</cell>
+                     <cell>Gingival</cell>
+                     <cell>t.</cell>
+                     <cell>Spirital.</cell>
+                  </row>
+                  <row>
+                     <cell>Cloſe</cell>
+                     <cell>D. Murm-mute</cell>
+                     <cell>Gingival</cell>
+                     <cell>d.</cell>
+                     <cell>Vocal.</cell>
+                  </row>
+                  <row>
+                     <cell>Cloſe</cell>
+                     <cell>N. Naſo-vocal</cell>
+                     <cell>Gingival</cell>
+                     <cell>n.</cell>
+                     <cell>Naſo-vocal.</cell>
+                  </row>
+                  <row>
+                     <cell>Cloſe</cell>
+                     <cell>K. Mute</cell>
+                     <cell>Palatic</cell>
+                     <cell>k.</cell>
+                     <cell>Spirital.</cell>
+                  </row>
+                  <row>
+                     <cell>Cloſe</cell>
+                     <cell>G. Murm-mute</cell>
+                     <cell>Palatic</cell>
+                     <cell>g.</cell>
+                     <cell>Vocal.</cell>
+                  </row>
+                  <row>
+                     <cell>Cloſe</cell>
+                     <cell>N<hi rend="sup">ĝ</hi>. Naſo-vocal</cell>
+                     <cell>Palatic</cell>
+                     <cell>y.</cell>
+                     <cell>Naſo-vocal.</cell>
+                  </row>
+                  <row>
+                     <cell>Pervious</cell>
+                     <cell>F. Blaeſe</cell>
+                     <cell>Labiodental</cell>
+                     <cell>f.</cell>
+                     <cell>Spirital.</cell>
+                  </row>
+                  <row>
+                     <cell>Pervious</cell>
+                     <cell>V. Murm-Blaeſe.</cell>
+                     <cell>Labiodental</cell>
+                     <cell>v.</cell>
+                     <cell>Vocal.</cell>
+                  </row>
+                  <row>
+                     <cell>Pervious</cell>
+                     <cell>Th. Blaeſe</cell>
+                     <cell>Lingua-dental</cell>
+                     <cell>θ.</cell>
+                     <cell>Spirital.</cell>
+                  </row>
+                  <row>
+                     <cell>Pervious</cell>
+                     <cell>Dh. Murmut-Blaeſe</cell>
+                     <cell>Lingua-dental</cell>
+                     <cell>ϑ.</cell>
+                     <cell>Vocal.</cell>
+                  </row>
+                  <row>
+                     <cell>Pervious</cell>
+                     <cell>S. Sibilant</cell>
+                     <cell>Gingival</cell>
+                     <cell>s.</cell>
+                     <cell>Spirital.</cell>
+                  </row>
+                  <row>
+                     <cell>Pervious</cell>
+                     <cell>Z. Murm-Sibilant</cell>
+                     <cell>Gingival</cell>
+                     <cell>z.</cell>
+                     <cell>Vocal.</cell>
+                  </row>
+                  <row>
+                     <cell>Pervious</cell>
+                     <cell>Sh. Sibilant.</cell>
+                     <cell>Palatic</cell>
+                     <cell>ſh.</cell>
+                     <cell>Spirital.</cell>
+                  </row>
+                  <row>
+                     <cell>Pervious</cell>
+                     <cell>Sh. Murm-Sibilant</cell>
+                     <cell>Palatic</cell>
+                     <cell>j. zh.</cell>
+                     <cell>Vocal.</cell>
+                  </row>
+                  <row>
+                     <cell>Pervious</cell>
+                     <cell>L. Semi-voc. ſmooth</cell>
+                     <cell>Gingival</cell>
+                     <cell>l.</cell>
+                     <cell>Vocal-lateral.</cell>
+                  </row>
+                  <row>
+                     <cell>Pervious</cell>
+                     <cell>R Semi-voc. jarring.</cell>
+                     <cell>Gingival</cell>
+                     <cell>r.</cell>
+                     <cell>Vocal-jarring.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Thus every of theſe Conſo<g ref="char:EOLhyphen"/>nants may be differenced and de<g ref="char:EOLhyphen"/>fined by theſe three reſpects, 1. Sound or <hi>Matter.</hi> 2. Appulſe of <hi>Organ.</hi> 3. Manner of <hi>Appulſe.</hi> e. g. B. is Vocal, Labial, Occluſe; T. is Spirital, Gingival, Occluſe; F. is Spirital, Labiodental, Pervi<g ref="char:EOLhyphen"/>ous;
+<pb n="54" facs="tcp:49742:32"/>ous; and the reſt in like man<g ref="char:EOLhyphen"/>ner.</p>
+            <p>It will give much light to what hath hitherto been ſpoken concern<g ref="char:EOLhyphen"/>ing <hi>Conſonants,</hi> to take a better view of what has been already hint<g ref="char:EOLhyphen"/>ed, and to lay this Hypotheſis; <hi>viz.</hi> That the number of Letters in Nature, is equal to the number of Articulations, ſeverally apply<g ref="char:EOLhyphen"/>ed to every diſtinct matter of Sound. The Articulations of Con<g ref="char:EOLhyphen"/>ſonants, <hi>i. e.</hi> the different motions and poſtures of the Organs of Speech, by which they are form<g ref="char:EOLhyphen"/>ed (though poſſibly more may be found) I ſuppoſe to be 9, where<g ref="char:EOLhyphen"/>of I have deſcribed 7 in 17 Con<g ref="char:EOLhyphen"/>ſonants, and added thoſe of L and R. Now let <hi>Breath</hi> alone, in the Mouth, be firſt Articulated by theſe, there will be 9 Conſonants,
+<pb n="55" facs="tcp:49742:32"/>P. T. K. F. Th. S. Sh. L'. R'. Se<g ref="char:EOLhyphen"/>condly, vocalize the Breath, and make the ſame Articulations, there will again be 9 more differences of ſound, and will make the Con<g ref="char:EOLhyphen"/>ſonants B.D.G.V.Dh.Z.Zh.L.R. Thirdly, make the ſame Articu<g ref="char:EOLhyphen"/>lations again, and let the voice paſs through the Noſe, and there will be 9 differences more, which will make M. N. Ng. V. Dh. Z. Zh. L. R, if the laſt ſix be ſpo<g ref="char:EOLhyphen"/>ken through the <hi>Noſe,</hi> in ſuch manner as we hear it done by thoſe, who (through an ill habit, or by an ill conſtitution or corro<g ref="char:EOLhyphen"/>ſion of the <hi>
+                  <g ref="char:V">Ʋ</g>vula</hi> or Valve, which opens and ſhuts the paſſage of Breath to the Noſe) are ſaid to ſpeak in the Head, or <hi>Snoch.</hi> Laſt<g ref="char:EOLhyphen"/>ly let <hi>Breath onely</hi> in like manner paſs <hi>through the Noſe,</hi> and have
+<pb n="56" facs="tcp:49742:33"/>the <hi>ſame Articulations,</hi> and there will be nine more different ſound<g ref="char:EOLhyphen"/>ed Letters, which I cannot di<g ref="char:EOLhyphen"/>ſcribe, but with Characters be<g ref="char:EOLhyphen"/>fore uſed, <hi>viz.</hi> M'. N'. N<hi rend="sub">g</hi>'. F'. Th'. S'. Sh'. L'. R'. Thus there will be by one <hi>Primary,</hi> joyn'd ſeverally with Four <hi>Secondary</hi> differences, four times Nine Conſonants, <hi>viz.</hi> 9. Spirital, 9. Vocal, 9 Naſo-Spirit<g ref="char:EOLhyphen"/>al, and 9. Naſo-Vocal; in all, 36.</p>
+            <p>But finding no neceſſity of ſo many, (ſince Languages are va<g ref="char:EOLhyphen"/>rious enough, and copious with thoſe in uſe;) and withal, that the 6 <hi>Naſo-Vocal</hi> Letters, which are made by <hi>pervious</hi> Appulſe, are not eaſie nor graceful to pro<g ref="char:EOLhyphen"/>nounce, we reject them, and re<g ref="char:EOLhyphen"/>tein onely the Uſe of the other 3. which are by <hi>cloſe Appulſe,</hi>
+               <pb n="57" facs="tcp:49742:33"/>and are facile and graceful, <hi>viz.</hi> M. N. N<hi rend="sup">ĝ</hi>. And for the ſame rea<g ref="char:EOLhyphen"/>ſon we much more exclude 6 of the <hi>Naſo-Spiritals, viz.</hi> thoſe made by <hi>pervious</hi> Appulſe. And for the other 3. though ſome Na<g ref="char:EOLhyphen"/>tions poſſibly may take the pains to pronounce them, (eſpecially the laſt of them, formed in the Pa<g ref="char:EOLhyphen"/>late, N<hi rend="sup">ĝ</hi>. which perhaps may be the Genuin ſound of the <hi>Hebrew ע</hi>) yet being found harſh and trou<g ref="char:EOLhyphen"/>bleſome, they are more general<g ref="char:EOLhyphen"/>ly diſuſed, whilſt moſt Nations rather ſtudy to ſweeten and ſoft<g ref="char:EOLhyphen"/>en their Pronunciation, and to that end are more ready to change or leave out in their Compoſiti<g ref="char:EOLhyphen"/>ons of words, and Conjugations, and words, borrowed from other Languages, ſuch Letters, as leſs ſuit with <hi>eaſie</hi> Pronunciation.</p>
+            <pb n="58" facs="tcp:49742:34"/>
+            <p>Again, it falls out, that L. and R. being in extreams, one of Roughtneſs, the other of Smooth<g ref="char:EOLhyphen"/>neſs and freeneſs of Vocality, are not eaſie, in tract of <hi>Vocal ſpeech,</hi> to be pronounced ſpiritally, as are P. T. F. S. <hi>&amp;c.</hi> but are apt to get a tincture of <hi>Vocal ſound,</hi> (which you will perceive, if you try to pronounce L'a, or R'a, with L and R ſpirital;) or elſe with ſtriving to avoid it to become too <hi>Guttural;</hi> and therefore obtain not a diſtinct Character, and place in the Al<g ref="char:EOLhyphen"/>phabet, as Articulations of Breath: Though we meet poſſibly with ſomething of this nature in the <hi>Welch</hi> pronunciation of L, and the <hi>Greek</hi> of R. And when amongſt them we find <hi>LL</hi> as in <hi>LLoyd, &amp;c.</hi> or ῤῥ ἐῤῥενον we may conceive one of each pronounced <hi>Spirital<g ref="char:EOLhyphen"/>ly,</hi>
+               <pb n="59" facs="tcp:49742:34"/>the other <hi>Vocally.</hi> But in at<g ref="char:EOLhyphen"/>tempting to pronounce theſe two Conſonants, as likewiſe the <hi>Naſals,</hi> and ſome of the vowels <hi>Spiritally,</hi> the Throat is brought to labour, and it makes that which we call a <hi>Guttural</hi> pronunciation.</p>
+            <p>Thus out of 4 times 9. <hi>i. e.</hi> 36. caſting out as uſeleſs (or at beſt, inconvenient and needleſs) 9 <hi>Na<g ref="char:EOLhyphen"/>ſo-Spiritals,</hi> 6 <hi>Naſo-Vocals,</hi> and 2 <hi>Spiritals,</hi> there remain, as proper Elements of Language, 19 Con<g ref="char:EOLhyphen"/>ſonants ſuch as are before de<g ref="char:EOLhyphen"/>ſcribed. And if they do not all go in equal and parallel Combi<g ref="char:EOLhyphen"/>nations, you ſee the reaſon of it. And where ſome Nations may be found to have a peculiar <hi>Gut<g ref="char:EOLhyphen"/>tural</hi> or <hi>Naſal</hi> ſmatch in their Lan<g ref="char:EOLhyphen"/>guage, it will be found alſo, that they labour to retain in their
+<pb n="60" facs="tcp:49742:35"/>pronunciation (though perhaps not expreſſed in their Alphabets) ſome of thoſe Letters, whoſe uſe is more generally rejected. And I, not being able to know the di<g ref="char:EOLhyphen"/>ſtinct uſages in all Languages, do not hold my ſelf obliged by the deſign of this Eſſay, to accomo<g ref="char:EOLhyphen"/>date an Alphabet to them all, but think it ſufficient in this fol<g ref="char:EOLhyphen"/>lowing <hi>Scheme,</hi> to lay down all poſſible Conſonants, that we know of in nature; (not to ſpeak now of one ſtop, whichmay be made in the <hi>Larynx,</hi> of Breath, be<g ref="char:EOLhyphen"/>fore it comes to the Tongue and Palat;) leaving it to every ones pleaſure, upon their experience of forrein uſages, to ſelect out of this common ſtock more Letters than I do, and remove the <hi>Obelisks,</hi> which are intended for marks of
+<pb n="61" facs="tcp:49742:35"/>rejection of thoſe Letters, to which they are prefixed. I have not in this <hi>Scheme</hi> of theſe 9 Quaterni<g ref="char:EOLhyphen"/>ons of Conſonants, Diſtinct known Characters, whereby to expreſs them, but muſt repeat the ſame, preſuppoſing thoſe differ<g ref="char:EOLhyphen"/>ences of Pronunciation already deſcribed.</p>
+            <pb n="62" facs="tcp:49742:36"/>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">Articulations</cell>
+                     <cell role="label">Spirital</cell>
+                     <cell role="label">Vocal</cell>
+                     <cell role="label">Naſo<g ref="char:EOLhyphen"/>Spirital</cell>
+                     <cell role="label">Naſo<g ref="char:EOLhyphen"/>vocal</cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>Appulſe</cell>
+                     <cell>Cloſe.</cell>
+                     <cell>Labial</cell>
+                     <cell>P</cell>
+                     <cell>B</cell>
+                     <cell>+-M'</cell>
+                     <cell>M</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Appulſe</cell>
+                     <cell>Cloſe.</cell>
+                     <cell>Gingival</cell>
+                     <cell>T</cell>
+                     <cell>D</cell>
+                     <cell>+-N</cell>
+                     <cell>N</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Appulſe</cell>
+                     <cell>Cloſe.</cell>
+                     <cell>Palatick</cell>
+                     <cell>K</cell>
+                     <cell>G</cell>
+                     <cell>+-Ng'</cell>
+                     <cell>Ng</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Appulſe</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Appulſe</cell>
+                     <cell>Pervious.</cell>
+                     <cell>Labiadental</cell>
+                     <cell>F</cell>
+                     <cell>V</cell>
+                     <cell>+-F</cell>
+                     <cell>+-V</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Appulſe</cell>
+                     <cell>Pervious.</cell>
+                     <cell>Lingua<g ref="char:EOLhyphen"/>dental</cell>
+                     <cell>Th</cell>
+                     <cell>Dh</cell>
+                     <cell>+-Th</cell>
+                     <cell>+-Dh</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Appulſe</cell>
+                     <cell>Pervious.</cell>
+                     <cell>Gingival-Sibilant</cell>
+                     <cell>S</cell>
+                     <cell>Z</cell>
+                     <cell>+-S</cell>
+                     <cell>+-Z</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Appulſe</cell>
+                     <cell>Pervious.</cell>
+                     <cell>Palatick-Sibilant</cell>
+                     <cell>Sh</cell>
+                     <cell>Zh</cell>
+                     <cell>+-Sh'</cell>
+                     <cell>+-Zh</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Appulſe</cell>
+                     <cell>Pervious.</cell>
+                     <cell>Gingival-Free</cell>
+                     <cell>+-L'</cell>
+                     <cell>L</cell>
+                     <cell>+-L'</cell>
+                     <cell>
+                        <g ref="char:EOLunhyphen"/>L</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Appulſe</cell>
+                     <cell>Pervious.</cell>
+                     <cell>Gingival<g ref="char:EOLhyphen"/>jarring</cell>
+                     <cell>+-R'</cell>
+                     <cell>R</cell>
+                     <cell>+-R'</cell>
+                     <cell>+-R'</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Appulſe</cell>
+                     <cell>Pervious.</cell>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell>9</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>19</cell>
+                  </row>
+               </table>
+            </p>
+            <p>In this minute devious ſubject, I have been neceſſitated to ex<g ref="char:EOLhyphen"/>plain my ſelf in more words, than to ſome Few may ſeem needful: For their ſakes therefore, I will in
+<pb n="63" facs="tcp:49742:36"/>a ſhort review, ſum up what has hitherto been ſaid.</p>
+            <p>
+               <hi>Language</hi> is a Connexion of Audible ſignes, the moſt apt and excellent in whole nature for Communication of our Thoughts and Notions by Speaking. <hi>Written Language</hi> is a deſcription of the ſaid Audible Signes, by Signes Viſible. The <hi>Elements</hi> of Lan<g ref="char:EOLhyphen"/>guage are Letters, <hi>viz.</hi> Simple diſcriminations of Breath or Voice, Articulated by the Organs of Speech.</p>
+            <p>The <hi>Alphabet</hi> conſiſts of ſo ma<g ref="char:EOLhyphen"/>ny Letters, as there are to be found ſuch ſimple Diſcriminati<g ref="char:EOLhyphen"/>ons. And the <hi>written Alphabet</hi> ought to be juſt ſo many ſingle proper Charactes, deſigned to ſig<g ref="char:EOLhyphen"/>nifie the Sound or Power of each Letter. And theſe are the <hi>ſtore<g ref="char:EOLhyphen"/>houſe</hi>
+               <pb n="64" facs="tcp:49742:37"/>of nature; the Elements, and Materials, out of which all Languages are made. Theſe Let<g ref="char:EOLhyphen"/>ters have their <hi>Material</hi> and their <hi>Formal</hi> cauſes, and <hi>Organs</hi> pro<g ref="char:EOLhyphen"/>per to each. Their <hi>Matter</hi> is va<g ref="char:EOLhyphen"/>rious; <hi>viz.</hi> Breath, or voice, <hi>i. e.</hi> Breath vocalized by the operati<g ref="char:EOLhyphen"/>on of the <hi>Larynx.</hi> Their <hi>Form</hi> is conſtituted by the Motions and Figures of the Organs of ſpeech, affecting the Breath or Voice with a peculiar ſound, by which each Letter is diſcriminated.</p>
+            <p>Now to find out their <hi>juſt num<g ref="char:EOLhyphen"/>ber,</hi> firſt find out the different kinds of Matter, of which Let<g ref="char:EOLhyphen"/>ters are made; and theſe are in ge<g ref="char:EOLhyphen"/>neral, <hi>Breath</hi> when onely Spirit or Breath is Articulated; and <hi>Voice,</hi> when <hi>Articulation</hi> is of Breath vocalized. And theſe a<g ref="char:EOLhyphen"/>gain
+<pb n="65" facs="tcp:49742:37"/>more particularly, are either (after they have paſſed the <hi>La<g ref="char:EOLhyphen"/>rynx</hi>) onely in the <hi>Mouth,</hi> or elſe have paſſage at the ſame time through the <hi>Noſe.</hi> So there are 4 kinds of matter: <hi>Breath-Oral; Voice-Oral; Breath Ore-naſal,</hi> and <hi>Voice Ore-naſal.</hi>
+            </p>
+            <p>Next, examine how many <hi>dif<g ref="char:EOLhyphen"/>ferent Articulations</hi> can be made by ſeveral Motions and Poſtures of the Organs in the parts of the Mouth, which applyed ſeverally to the kinds of Matter, may make ſeveral Diſcriminations of ſound to the Ear, <hi>i. e.</hi> ſeveral Letters. And of theſe (as to Con<g ref="char:EOLhyphen"/>ſonants, <hi>viz.</hi> Letters made by Appulſe) I find and have de<g ref="char:EOLhyphen"/>ſcribed 9. And if poſſibly any more may be found out, it is moſt likely, they will not recompence
+<pb n="66" facs="tcp:49742:38"/>the Diſcoverers pains, by being of ready and graceful uſe, but will be ſitter to be caſt out a<g ref="char:EOLhyphen"/>mongſt thoſe, to which in the pre<g ref="char:EOLhyphen"/>ceding Scheme, an <hi>obelisk</hi> is pre<g ref="char:EOLhyphen"/>fixed. Now by theſe 9 Articu<g ref="char:EOLhyphen"/>lations with Appulſe, there will be framed, Conſonants <hi>Spirital</hi> 9; <hi>Vocal</hi> 9; <hi>Naſo-Spirital</hi> 9; <hi>Naſo-Vocal</hi> 9; in all 36. Then reject<g ref="char:EOLhyphen"/>ing thoſe that prove not grace<g ref="char:EOLhyphen"/>ful, nor eaſie to be pronounced, <hi>viz.</hi> 2 <hi>Spiritals,</hi> 9 <hi>Naſo-Spiritals,</hi> and 6 <hi>Naſo-Vocals,</hi> in all 17; there will remain 19 <hi>Conſonants,</hi> proper for uſe according to the de<g ref="char:EOLhyphen"/>ſign of Letters. And if thoſe, to whom only theſe 19 Conſonants, (or about that number) appear<g ref="char:EOLhyphen"/>ed, and ſtood in ſuch confuſed order, ſome in Ternary's, ſome in Pairs, and ſome ſingle, were
+<pb n="67" facs="tcp:49742:38"/>themſelves put into ſo much con<g ref="char:EOLhyphen"/>fuſion, and ſo puzled to give a methodical and natural accompt of them, it is no matter of won<g ref="char:EOLhyphen"/>der. But now looking upon them, as they lie in their origi<g ref="char:EOLhyphen"/>nal <hi>Differences</hi> and <hi>Combinations,</hi> and as they are ſelected out of a Natural ſtock of 9 Quaternions, or 4 Novenaries: I think (if I flatter not my ſelf) their Nature and Differences lye moſt plain and obvious to be underſtood.</p>
+            <p>In deſcribing Letters framed by Articulation, and more par<g ref="char:EOLhyphen"/>ticularly, by Appulſe, I have hi<g ref="char:EOLhyphen"/>therto had no occaſion to ſpeak of H, ſince that H is onely a <hi>Guttu<g ref="char:EOLhyphen"/>ral Aſpiration, i. e.</hi> a more forci<g ref="char:EOLhyphen"/>ble impulſe of Breath from the Lungs, applyed when we pleaſe, before or after other Letters. And
+<pb n="68" facs="tcp:49742:39"/>if we will aſcribe any Articula<g ref="char:EOLhyphen"/>tion by Motion or Figure to it, it is onely a more ſodain and for<g ref="char:EOLhyphen"/>cible contraction of the Lungs, and collecting the Breath in the Pipe of the <hi>Aſpera Arteria,</hi> and poſſibly ſomewhat ſtreitning it in the mouth of it, which is the <hi>La<g ref="char:EOLhyphen"/>rynx;</hi> and all the formation of it ends there: and thus applyed to a Vowel, or to ſome of the Con<g ref="char:EOLhyphen"/>ſonants, it does indeed affect them with a different ſound, and there<g ref="char:EOLhyphen"/>fore deſerves to be conſidered in this place; though not as a Con<g ref="char:EOLhyphen"/>ſonant, having no Appulſe; nor as a Vowel, being never Vocal, but affecting onely the Breath, and that by an addition onely of force, but not by any new Fi<g ref="char:EOLhyphen"/>gure in the Mouth; and ſo can<g ref="char:EOLhyphen"/>not properly be called a Letter,
+<pb n="69" facs="tcp:49742:39"/>according to that deſcription we have made of Letters; yet in that it cauſes a ſenſible, and not in<g ref="char:EOLhyphen"/>commodious Diſcrimination of Sound, it ought to be annexed to the <hi>Alphabet,</hi> and to be ex<g ref="char:EOLhyphen"/>preſſed in the written Alphabet, by ſome appropriate Character, or elſe (as in the <hi>Greek</hi>) mark of Aſpiration.</p>
+            <p>The Uſe of it before and af<g ref="char:EOLhyphen"/>ter Vowels, is familiarly known; but applyed to Conſonants it needs to be more diligently con<g ref="char:EOLhyphen"/>ſidered, becauſe to ſome of them we find it very unfitly joyned in our Alphabets and Writing; as when we expreſs the powers of F. V. θ. ϑ. <hi>&amp;c.</hi> by <hi>Ph, Bh, Th, Dh,</hi> in which Letters there is not any ſuch <hi>Guttural</hi> Aſpiration as H, nor any proper ſound of it, neither
+<pb n="70" facs="tcp:49742:40"/>any mixture of the Natural ſounds of P. B. T. or D. But the other are Genuine ſimple Letters formed, by different Fi<g ref="char:EOLhyphen"/>gures of the Organs, from thoſe of theſe laſt, and ought to be al<g ref="char:EOLhyphen"/>together expreſſed by ſingle pro<g ref="char:EOLhyphen"/>per Characters. The miſtake, I gueſs, lies in this, that <hi>Ph</hi> and thoſe other, being made by <hi>Per<g ref="char:EOLhyphen"/>vious</hi> Appulſe, there is ſome paſ<g ref="char:EOLhyphen"/>ſage of Breath through the Mouth, which by addition of H, (through prejudice taken in with our firſt A B C,) is thought to difference them from P, and thoſe other Cloſe Letters of near reſemblance. But if better examined, there will be found another difference beſides that of Perviouſneſs of Appulſe, or paſſage of Breath; and that conſiſts in the <hi>Figure</hi> of
+<pb n="71" facs="tcp:49742:40"/>their <hi>Articulation;</hi> P. and B. are <hi>Labial: Ph</hi> and <hi>Bh,</hi> (or F and V) are <hi>Labio-dental;</hi> T. and D. are <hi>Gingival; Th.</hi> and <hi>Dh.</hi> are <hi>Lingua-dental.</hi> And for their be<g ref="char:EOLhyphen"/>ing <hi>Pervious,</hi> you may call them (if you pleaſe,) <hi>Perſpirate;</hi> but yet they are not <hi>Aſpirate. i. e.</hi> with ſuch an Aſpiration as H. Nor can you well joyn H. either before or after any of the 6 Oral <hi>Occluſe</hi> Conſonants, without an <hi>Hiatus,</hi> if you retein the true fi<g ref="char:EOLhyphen"/>gure of thoſe Letters. As for <hi>Sh,</hi> which alſo is an Original ſim<g ref="char:EOLhyphen"/>ple Letter, becauſe our Alpha<g ref="char:EOLhyphen"/>bet wanted a more proper cha<g ref="char:EOLhyphen"/>racter for it, and the figure of it gives a rounder paſſage of Breath than S, (<hi>this</hi> hiſſing in the Goums; <hi>that,</hi> in a larger ſpace, in the Palat,) it was unaptly ſup<g ref="char:EOLhyphen"/>plyed
+<pb n="72" facs="tcp:49742:41"/>by adding H; and the ſame is <hi>Zh</hi> to Z: <hi>Gh.</hi> (as in <hi>Through</hi>) is onely an <hi>Aſpirate,</hi> and G. ought to be left out. And <hi>Ch</hi> (as we pronounce it) is a compound of T. and <hi>Sh.</hi> or at leaſt T. and Y. As alſo J Conſonant with us, or G ſemblably pronounced, is com<g ref="char:EOLhyphen"/>pounded of <hi>D</hi> and <hi>Zh,</hi> or D and Y. In WHAT, WHICH, and the like, H is pronounced be<g ref="char:EOLhyphen"/>fore W. and ſo of right ought to be written.</p>
+            <p>Beſides the 9 ſeveral Articula<g ref="char:EOLhyphen"/>tions by Appulſe before deſcri<g ref="char:EOLhyphen"/>bed, I hinted and paſſed by one, of which yet ſomething may be ſaid, <hi>viz.</hi> the Stop made by clo<g ref="char:EOLhyphen"/>ſing the <hi>Larynx;</hi> though I thought it not worthy to be inſerted a<g ref="char:EOLhyphen"/>mongſt the Letters, in that it is applyed to Breath immediately as
+<pb n="73" facs="tcp:49742:41"/>it paſſeth through the <hi>Aſpera Ar<g ref="char:EOLhyphen"/>teria,</hi> and not to Breath or Voice <hi>Oral</hi> or <hi>Naſal,</hi> being ſtopt be<g ref="char:EOLhyphen"/>fore it arrives there, or at the Tong; and, being a ſtop of that Inſtrument of Vocal Sound, the <hi>Larynx</hi> cannot be vocalized: ſo that, if it ſhould paſs for an Ar<g ref="char:EOLhyphen"/>ticulation, it could frame but one Letter, and that uneaſie and un<g ref="char:EOLhyphen"/>ready to be joyn'd with the mo<g ref="char:EOLhyphen"/>tions of other Letters in Speech. It is of ſome Affinity to K, of a middle nature between K. and H. And this being relaxed may make by a <hi>Pervions</hi> Appulſe there, a ſha<g ref="char:EOLhyphen"/>king of the <hi>Larynx,</hi> as when we Gargarize: like as ſnorting in<g ref="char:EOLhyphen"/>wards doth by ſhaking the <hi>
+                  <g ref="char:V">Ʋ</g>vula,</hi> and as may be done with the Lips. And this coming ſtill nearer to an Aſpiration, a
+<pb n="74" facs="tcp:49742:42"/>Touch of it may perhaps be an Ingredient in the rough Guttural pronunciation of the <hi>Welch</hi> and <hi>Iriſh:</hi> And I have heard ſome <hi>Cri<g ref="char:EOLhyphen"/>ticks</hi> pronounce the <hi>Greek x</hi> after that manner, but ſomewhat ſofter, and our <hi>gh</hi> (as in <hi>Through</hi>) has ſomething of it, being more than a bare Aſpiration, if ſtrongly pro<g ref="char:EOLhyphen"/>nounced; and the deſcribing it by a Compoſition of <hi>g</hi> and <hi>h</hi> ſhews, that our Anceſtors had that No<g ref="char:EOLhyphen"/>tion of it, as a middle ſound be<g ref="char:EOLhyphen"/>tween G and H, though G was properly put inſtead of K; for it can have nothing of <hi>Vocal</hi> ſound; Voice being raiſed by ſtiffe tenſi<g ref="char:EOLhyphen"/>on of the <hi>Larynx,</hi> and on the contrary this ſound by a relaxed poſture of the Muſcles there<g ref="char:EOLhyphen"/>of.</p>
+            <p>There are other differences of
+<pb n="75" facs="tcp:49742:42"/>Sound in Speaking, by which the Tone of ſeveral Nations, and oft of ſeveral perſons in the ſame Na<g ref="char:EOLhyphen"/>tion, is rendred diſtinct, which are partly to be referred to their <hi>Al<g ref="char:EOLhyphen"/>phabets,</hi> and partly to their <hi>Words</hi> and <hi>manner of Pronunciation,</hi> and <hi>Accent.</hi> As to their <hi>Alphabets,</hi> ſome may be found to take in ſome Letters, as the <hi>Ore ſpirital</hi> L' R' and <hi>Naſo-ſpirital</hi> M' N' Ng'; which others uſe not, and which (as hath been obſerved) give a <hi>Gut<g ref="char:EOLhyphen"/>tural</hi> and <hi>Naſal</hi> ſmatch to their ſpeaking. And in ſeveral Lan<g ref="char:EOLhyphen"/>guages, ſundry of the more grace<g ref="char:EOLhyphen"/>ful Letters in the natural Alpha<g ref="char:EOLhyphen"/>bet, are wholly omitted and dif<g ref="char:EOLhyphen"/>uſed. Again ſome being unapt to pronounce ſome Letters even in their own Language, get a dif<g ref="char:EOLhyphen"/>ferent Tone in ſpeaking. They
+<pb n="76" facs="tcp:49742:43"/>who have great and long Tongs, cannot ſo well make that <hi>Pervious</hi> Appulſe of the Tongue to the Goums, which S. requires; but are apt to touch their Teeth, and pronounce <hi>Th</hi> inſtead of S, which is called Lisping. On the contra<g ref="char:EOLhyphen"/>ry they, who have ſhort Tongs, or are Tongue-tyed, are apt to fall ſhort of the Appulſe of the Tongue to the Teeth, and oftner place it on the Goums, and ſay T. and D. inſtead of <hi>Th</hi> and <hi>Dh,</hi> as <hi>Moder</hi> for <hi>Mother.</hi>
+            </p>
+            <p>They whoſe <hi>Palat</hi> is ill formed, (ſuch as are ſaid to want the Roof or Palat of the Mouth) or the <hi>Muſcles</hi> of their Tongue are weak and Flaccid, cannot pronounce R. The former for want of ſit ſur<g ref="char:EOLhyphen"/>face of the Palat to conduct the Breath even and ſtrong to the
+<pb n="77" facs="tcp:49742:43"/>Goums; the later, for want of ſtrength of the Tongue to ſu<g ref="char:EOLhyphen"/>ſtain the jarre.</p>
+            <p>As to their <hi>Words,</hi> a great dif<g ref="char:EOLhyphen"/>ference in the Sound of ſeveral Languages ariſeth from the ſorting of Letters, whereof the Words are framed: ſome affecting one ſort of Letters, ſome another, to be the moſt frequent Ingredients in their Words. Some Languages are ſull of Conſonants, as the <hi>Po<g ref="char:EOLhyphen"/>lasque:</hi> ſome, as the <hi>Italian</hi> and <hi>French,</hi> avoid them: though the <hi>French</hi> write ſome Conſonants, which they do not pronounce, to be <hi>Indices</hi> of the Derivations of their words: and generally more Emphaſis and Accent is given to the vowels by our neighboring Nations, than by us <hi>Engliſh.</hi>
+            </p>
+            <p>I have obſerved a pretty affecta<g ref="char:EOLhyphen"/>ation
+<pb n="78" facs="tcp:49742:44"/>in the <hi>Alleman</hi> and ſome others, which gives their Speech a different Tang from ours: to ſoften the <hi>Occluſe Gingival</hi> Con<g ref="char:EOLhyphen"/>ſonants, by a kind of Mixture or ſoft addition of a <hi>Spirital</hi> in the ſame Articulation, to a <hi>Vocal</hi> pro<g ref="char:EOLhyphen"/>ducing the Vowel, and making the Conſonant end <hi>Spirital,</hi> which began <hi>Vocal,</hi> as D T. N N'. <hi>Stâdt', Bâdt̂, Mânn', &amp;c.</hi> And whilſt the <hi>Italians</hi> ſtrive, as it were, to cut a thread in their Pronunciation between D and T, ſo to ſweeten it; the <hi>Florentine</hi> comes nearer to T, the <hi>Venetian</hi> to D. And generally, they make the <hi>Occluſe</hi> Appulſe, eſpecially the <hi>Gingival,</hi> ſofter than we do, giving a little of perviouſneſs.</p>
+            <p>Many more Obſervations of theſe kinds might eaſily be made,
+<pb n="79" facs="tcp:49742:44"/>and are to be found in different Languages, all over the habitable world. And in general, the Free<g ref="char:EOLhyphen"/>dom or Apertneſs and vigour of pronuncing (as is particularly ob<g ref="char:EOLhyphen"/>ſerved in the <hi>Bocca Romana</hi>) and giving ſomewhat more of Aſpira<g ref="char:EOLhyphen"/>tion; And on the other ſide, the <hi>cloſeneſs</hi> and Mufling, and (as I may ſay) Lazineſs of ſpeaking (which varieties are found in ſe<g ref="char:EOLhyphen"/>veral Nations comparatively, and by the different natural ſhapes of the Mouth, and ſeveral con<g ref="char:EOLhyphen"/>formations of the Organs of ſpeech in thoſe of the ſame Lan<g ref="char:EOLhyphen"/>guage) render the ſound of their Speech conſiderably different, though they all ſhould uſe the ſame Alphabet.</p>
+            <p>I come now to conſider Letters made <hi>without Appulſe,</hi> i. e. <hi>Vowels,</hi>
+               <pb n="80" facs="tcp:49742:45"/>among which will be found two or three more to be added to the before deſcribed number of <hi>Con<g ref="char:EOLhyphen"/>ſonants.</hi>
+            </p>
+            <p>The <hi>Vewels</hi> are made by a free paſſage of <hi>Breath Vocalized</hi> through the cavity of the Mouth, without any appulſe of the Or<g ref="char:EOLhyphen"/>gans; the ſaid cavity's being dif<g ref="char:EOLhyphen"/>ferently ſhaped by the poſtures of the Throat, Tongue and Lips, ſome or more of them, but chiefly of the Tongue.</p>
+            <p>As to the <hi>Number</hi> of Vowels, they, being differenced by the ſhape of the cavity of the mouth, may be reckon'd very many, if ſmall differences be allowed. But thoſe which are remarkably di<g ref="char:EOLhyphen"/>ſtinguiſhed, and reaſonably ſuffice to expreſs the pronunciations in uſe, that we know of, may be
+<pb n="81" facs="tcp:49742:45"/>reduced to theſe Eight; α. a. e. i. o. oo. u. <g ref="char:ougr">ȣ</g>; the ſounds whereof, ac<g ref="char:EOLhyphen"/>cording to the vulgar pronunciati<g ref="char:EOLhyphen"/>on, are thus.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label" rows="2">
+                        <hi>Long,</hi> or accented in the <hi>Vowel.</hi>
+                     </cell>
+                     <cell>α</cell>
+                     <cell>a</cell>
+                     <cell>e</cell>
+                     <cell>i</cell>
+                     <cell>o</cell>
+                     <cell>oo</cell>
+                     <cell>u</cell>
+                     <cell>
+                        <g ref="char:ougr">ȣ</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fall.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Fate.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Seal.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Eel.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Cole.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Fool.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Rule.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Two.</hi>
+                     </cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Short,</hi> or accented in the <hi>Conſonant.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Folly.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Fat.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Sell.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Ill.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Full.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>There is ſo much ſpace between <hi>a</hi> and <hi>e,</hi> that there may be a vowel inſerted between them, and a fit character for it may be <hi>æ,</hi> and perhaps ſome Languages may have a diſtinct uſe of ſuch a vowel.</p>
+            <p>Whereas I make the <hi>Material</hi> part of Vowels in their <hi>Definition</hi> to be Breath vocalized, or voice Oral, I am to be underſtood, as I treat of Vocal Speech; otherwiſe the ſame Vowels may be <hi>whisper<g ref="char:EOLhyphen"/>ed</hi> that is, in uſe of whispering by Articulations of Breath; and, if
+<pb n="82" facs="tcp:49742:46"/>there were any uſe of it, they may be pronounced <hi>Naſal,</hi> both <hi>Spirital</hi> and <hi>Vocal;</hi> but in Vocal Speech they are all <hi>Ore-vocals,</hi> as to common and ready uſe, and are to be accompted juſt ſo many, as there are ſeveral Articulations, by which they are made.</p>
+            <p>The <hi>Articulations,</hi> that is, the Motions and Poſtures of the Or<g ref="char:EOLhyphen"/>gans in framing the Vowels, are more difficultly diſcerned, than thoſe of the Conſonants; becauſe in the Conſonants, the Appulſe is more manifeſt to the ſenſe of Touching, but in the Vowels it is ſo hard to diſcern the Figures made by the Motions of the Tongue, (inclining onely toward the Palat, and not touching it) eſpecially about the more inward Boſſe or convex of it, that it is ren<g ref="char:EOLhyphen"/>dred
+<pb n="83" facs="tcp:49742:46"/>no leſs difficult to define the Articulations of the Vowels; and he that can deſcribe them accu<g ref="char:EOLhyphen"/>rately, <hi>erit mihi magnus Apollo.</hi>
+            </p>
+            <p>Onely he who ſhall adventure, has this advantage, that it is eaſier to affirm, than to diſprove. Neither are we obliged to ſeek, nor can expect to find any exact method of nature in the Articulations of Vowels, (as e. g. to find them equally ſorted into <hi>Gutturals, Pa<g ref="char:EOLhyphen"/>latick,</hi> or <hi>Gingivals,</hi> and <hi>Labials</hi>) no more than were found in thoſe of the Conſonants; where, of 9 Articulations, there are <hi>Labial</hi> 1; <hi>Labiodental</hi> 1; <hi>Linguadental</hi> 1; <hi>Gingival</hi> 4; <hi>Palatic</hi> 2; and ſome of theſe irregularly differing from the reſt. I ſhall therefore take upon me no more, than to ſet down, what I think may be per<g ref="char:EOLhyphen"/>ceived
+<pb n="84" facs="tcp:49742:47"/>in examining thoſe Ar<g ref="char:EOLhyphen"/>ticulations.</p>
+            <p>But firſt, to diſcover how much the middle and inward Boſſe of the upper ſurface of the Tongue is uſed here, and how little the end of it (except onely to con<g ref="char:EOLhyphen"/>duct and give way,) you will upon tryal find your ſelf able to pronounce all the Vowels, holding the end of your Tong, all the while ſteady againſt your Teeth. And you may come very near, doing the ſame without altering the poſture of your Lips: which evinceth, that all vowels are formed by the Tong, though in ſome the Lips concurre, and in ſome, the Throat. And whilſt you make this tryal, the Motions of the Tongue by Contraction, Dilatation, <hi>&amp;c.</hi> are ſo eaſie and
+<pb n="85" facs="tcp:49742:47"/>ſo ſubtil, that you can hardly conceive or diſtinguiſh them aright.</p>
+            <p>But we may imagine the Vow<g ref="char:EOLhyphen"/>el (α) to be made by the freeſt and openeſt paſſage of the Throat through the Mouth, and ſo to have a kind of natural Articula<g ref="char:EOLhyphen"/>tion without Art, onely by open<g ref="char:EOLhyphen"/>ing the Mouth: <hi>(a)</hi> to be a lit<g ref="char:EOLhyphen"/>tle ſtreitned by the Boſſe of the Tongue near the Throat; and therefore if you try to paſs from (α) to <hi>(a)</hi> you will find that you thruſt the end of your Tong ſomething forward to raiſe the Boſs of the Tong towards the Palat to ſtreiten the paſſage.</p>
+            <p>In <hi>(e)</hi> the middle of the Palat is ſtreitned, by the breadth of the Tong, and therefore the end of the Tong carried yet forwarder.</p>
+            <pb n="86" facs="tcp:49742:48"/>
+            <p>And in <hi>(i)</hi> ſtill more after the ſame manner, but with a ſtronger and firmer Tenſion of the Muſcles of the Tong bearing it ſtiſly very near the Palat, and reſting the ſides of the Tong a<g ref="char:EOLhyphen"/>gainſt the ſide-Teeth.</p>
+            <p>In <hi>(o)</hi> the <hi>Larynx</hi> is depreſ<g ref="char:EOLhyphen"/>ſed, or rather drawn back by con<g ref="char:EOLhyphen"/>traction of the <hi>Aſpera Arteria.</hi> And the Tong likewiſe is drawn back and Curved; and the Throat more open to make a round paſ<g ref="char:EOLhyphen"/>ſage: and though the Lips be not of neceſſity, yet the drawing them a little rounder, helps to accom<g ref="char:EOLhyphen"/>pliſh the pronunciation of it, which is not enough to denomi<g ref="char:EOLhyphen"/>nate it a <hi>Labial</hi> Vowel, becauſe it receives not its Articulation from the Lips. (oo) ſeems to be made by a like poſture of the
+<pb n="87" facs="tcp:49742:48"/>Tong and Throat with <hi>(o)</hi> but the <hi>Larynx</hi> ſomewhat more de<g ref="char:EOLhyphen"/>preſſed. And if the Lips at the ſame time be contracted, and born ſtifly near together, then is made <g ref="char:ougr">ȣ</g>. <hi>(u)</hi> with the Tong in the poſture of <hi>(i)</hi> but not ſo ſtiffe, and the Lip born near the upper Lip by a ſtrong Tenſion of the Muſcles, and bearing upon it at either corner of the mouth.</p>
+            <p>Thus, it ſeems, in <hi>oo</hi> and <hi>(o)</hi> the Throat; in (α) the Mouth is more opened: in <hi>a. e. i.</hi> the ſtreitnings of the cavity of the mouth between the Tong and Pa<g ref="char:EOLhyphen"/>lat, are gradually both forwarder and nearer the Roof.</p>
+            <p>(<g ref="char:ougr">ȣ</g>) is made by the Throat, and Tong, and Lip. <hi>(u)</hi> by the Tong and Lip; in <g ref="char:ougr">ȣ</g> the Tong be<g ref="char:EOLhyphen"/>ing in the poſture, which makes
+<pb n="88" facs="tcp:49742:49"/>
+               <hi>(oo;)</hi> and in <hi>(u)</hi> in the ſame poſture, which makes <hi>(i.)</hi> And in this, <g ref="char:ougr">ȣ</g> and <hi>u</hi> are peculiar, that they are framed by a double mo<g ref="char:EOLhyphen"/>tion of Organs, that of the Lip, added to that of the Tong; and yet either of them is a ſingle Let<g ref="char:EOLhyphen"/>ter, and not two, becauſe the mo<g ref="char:EOLhyphen"/>tions are at the ſame time, and not ſucceſſive, as are <hi>eu. pla. &amp;c.</hi> Yet for this reaſon they ſeem not to be abſolutely ſo ſimple Vow<g ref="char:EOLhyphen"/>els as the reſt, becauſe the voice paſſeth ſucceſſively from the Throat to the Lips in <g ref="char:ougr">ȣ</g>, and from the Palat to the Lips in <hi>u,</hi> being there firſt moulded into the ſigures of <hi>oo</hi> and <hi>i,</hi> before it be fully Arti<g ref="char:EOLhyphen"/>culated by the Lips. And yet, ei ther theſe two, <g ref="char:ougr">ȣ</g> and <hi>u,</hi> are to be admitted for ſingle Vowels, or elſe we muſt exclude the Lips from
+<pb n="89" facs="tcp:49742:49"/>being the Organs of any ſingle Vowel ſince that the Mouth be<g ref="char:EOLhyphen"/>ing neceſſary to conduct the Voice to the Lips, will, according to the ſhape of its cavity, neceſſarily give the Voice ſome particular affecti<g ref="char:EOLhyphen"/>on of ſound in its paſſage, before it come to the Lips; which will ſeem to make ſome ſuch compo<g ref="char:EOLhyphen"/>ſition in any Vowel which is <hi>La<g ref="char:EOLhyphen"/>bial.</hi> I have been inclin'd to think, there is no <hi>Labial</hi> Vowel, but that the ſame affection from the Lips may, ſomewhat in the na<g ref="char:EOLhyphen"/>ture of a Conſonant, be added to every of the Vowels, but moſt ſubtely, and aptly to two of them, whoſe Figures are in the ex<g ref="char:EOLhyphen"/>treams in reſpect of Aperture and Situation, one being the cloſeſt and forwardeſt, which is <hi>i,</hi> and the other being moſt open and
+<pb n="90" facs="tcp:49742:50"/>backward; there being reaſon to allow a Vowel of like ſound in the Throat with <g ref="char:ougr">ȣ</g>, but diſtinct from it as not being <hi>Labial;</hi> which will be more familiar to our Eye if it be written <hi>oo;</hi> as in <hi>Cut, Coot, Full, Fool, Tut, Toot,</hi> in which the Lip does not concur; and this is that other. Thus <hi>u</hi> will be onely <hi>i Labial,</hi> and <g ref="char:ougr">ȣ</g> will be <hi>oo Labial,</hi> that is, by adding that motion of the under-Lip, <hi>i</hi> will become <hi>u,</hi> and <hi>oo</hi> will become <g ref="char:ougr">ȣ</g>; and then the Series of the Vowels accord<g ref="char:EOLhyphen"/>ing to their degrees of aperture, and receſs towards the <hi>Larynx,</hi> will be thus, <hi>i, e, æ, a, α, o, oo;</hi> to which may be added <hi>u</hi> and <g ref="char:ougr">ȣ</g>, be<g ref="char:EOLhyphen"/>cauſe of their general uſe, as be<g ref="char:EOLhyphen"/>ing Labially affected more ſub<g ref="char:EOLhyphen"/>tlely than the reſt.</p>
+            <p>Taking theſe then for <hi>Vowels,</hi> it
+<pb n="91" facs="tcp:49742:50"/>is next obſervable, that <hi>i. u. <g ref="char:ougr">ȣ</g>.</hi> have another peculiar property above the other Vowels, being made by a ſtrong Tenſion and firme po<g ref="char:EOLhyphen"/>ſture of the Organ; the firſt, of the Tongue, the two later, of the Lip, making almoſt an Appulſe, that by reaſon thereof they ſerve indifferently for <hi>Vowels</hi> in reſpect of the <hi>Aperture,</hi> and for <hi>Conſo<g ref="char:EOLhyphen"/>nants</hi> in reſpect of the <hi>pene-ap<g ref="char:EOLhyphen"/>pulſe,</hi> and ſo much the more verg<g ref="char:EOLhyphen"/>ing either way, by the liberty of managing the Organs, according to the reſpective Occaſions.</p>
+            <p>And it is here obſervable, how excellently Nature has provided for the <hi>Readineſs</hi> and <hi>Eaſineſs</hi> of Speech. For if Speech were to be made onely by <hi>Vowels,</hi> there would be an <hi>hiatus;</hi> we could not ſpeak diſtinct enough, and the
+<pb n="92" facs="tcp:49742:51"/>Breath would ſpend too faſt; therefore it is checked by the Ap<g ref="char:EOLhyphen"/>pulſes made in Conſonants; and if it ſhould be all Conſonants, the Voice would be too much abated, and the paſſage would not be eaſie from one Syllable or collection of Letters to another; but being both mixed together, one Vowel in e<g ref="char:EOLhyphen"/>very Syllable, for varieties ſake, ſometimes preceding, ſometimes following, and ſometimes inter<g ref="char:EOLhyphen"/>poſed between the Conſonants (by checking and reſerving the Breath, and letting it paſs with a quick impulſe at the Aperture of the Organs for the Vowel) give a vigor and emphaſis to the Sound: And the motions of the Organs become more facile and ready by the mixture of <hi>Apertures</hi> with <hi>Appulſes.</hi>
+            </p>
+            <pb n="93" facs="tcp:49742:51"/>
+            <p>But in theſe three Vowels, of which I am now treating, there ſeems to be a kind of <hi>Luſus Na<g ref="char:EOLhyphen"/>turae;</hi> theſe are of a middle con<g ref="char:EOLhyphen"/>ſtitution between Vowels and Conſonants, partaking of both: and we ſee, how many diſputes, their ſimple and ambiguous na<g ref="char:EOLhyphen"/>ture hath created among the <hi>Grammarians,</hi> and how it has be<g ref="char:EOLhyphen"/>got the miſtake concerning <hi>Diph<g ref="char:EOLhyphen"/>thongs;</hi> they being all, that are accompted properly ſuch, com<g ref="char:EOLhyphen"/>pounded either with <hi>i. u.</hi> or <g ref="char:ougr">ȣ</g>, and are, as I conceive, <hi>Syllables</hi> and not <hi>Diphthongs</hi> (as it is intended to be ſignified by that word:) <hi>i. <g ref="char:ougr">ȣ</g>.</hi> and <hi>u.</hi> then ſupplying the place and nature of Conſonants by ſtreitning the paſſage of Breath, ſo as to check it not much leſs, than is done by ſome of the <hi>Pervious</hi>
+               <pb n="94" facs="tcp:49742:52"/>Conſonants, and by making a ſmart ſtroke at the Aperture in paſſage to another Vowel,
+<note place="margin">
+                  <hi>Vid. Ap<g ref="char:EOLhyphen"/>pend.</hi>
+               </note> anſwer<g ref="char:EOLhyphen"/>able to the Colliſion, or rather Divulſion of the Organs made by other Conſonants, as is evident in pronouncing <hi>ia, <g ref="char:ougr">ȣ</g>a. id est ya. wa.</hi> For the ſame reaſon, of the im<g ref="char:EOLhyphen"/>proper <hi>Diphthongs</hi> the moſt paſs<g ref="char:EOLhyphen"/>able are thoſe compounded with <hi>e</hi> or <hi>o,</hi> as <hi>ea, oa,</hi> becauſe of the nearneſs, that <hi>o</hi> has to <g ref="char:ougr">ȣ</g>, and <hi>e to i,</hi> and having either of them a little of that Spring in the Muſcles, which I have laſt deſcribed.</p>
+            <p>Concerning <g ref="char:ougr">ȣ</g> and <hi>u,</hi> this may be obſerved, that in ſubjoyning them to another vowel, <g ref="char:ougr">ȣ</g> is apter to follow α and <hi>o,</hi> becauſe of their reſemblance in the poſture of the Tong, as hath been ſaid; and for the like reaſon <hi>u</hi> is apter to fol<g ref="char:EOLhyphen"/>low
+<pb n="95" facs="tcp:49742:52"/>
+               <hi>a</hi> and <hi>e,</hi> as <hi>
+                  <g ref="char:ougr">ȣ</g>a<g ref="char:ougr">ȣ</g>l, wawl. euge,</hi> &amp;c. But generally if the Vowels follow, then it is <g ref="char:ougr">ȣ</g> precedes, and not <hi>u.</hi>
+            </p>
+            <p>Our vulgar <hi>(i.)</hi> as in <hi>(ſtile)</hi> ſeems to be ſuch a <hi>Dipthong</hi> (or rather ſyllable or part of a ſylla<g ref="char:EOLhyphen"/>ble) compoſed of <hi>a. i.</hi> or <hi>e. i.</hi> and not a ſimple Original Vowel.</p>
+            <pb n="96" facs="tcp:49742:53"/>
+            <p>I may now give you a Scheme of the whole Alphabet.</p>
+            <p>
+               <hi>Letters, i. e.</hi> ſuch ſimple Diſ<g ref="char:EOLhyphen"/>criminations of Sound as may be Elements of Signes for commu<g ref="char:EOLhyphen"/>nication by Speech, are differen<g ref="char:EOLhyphen"/>ced by
+<list>
+                  <item>
+                     <hi>Matter</hi> of Sound, prepared by the Lungs, Larynx, Mouth, Noſe.
+<list>
+                        <item>Breath
+<list>
+                              <item>Oral (and may be ſtiled) Ore-ſpirital.</item>
+                              <item>Ore-Naſal. (and may be ſtiled) Naſo-ſpirital.</item>
+                           </list>
+                        </item>
+                     </list>
+                     <list>
+                        <item>Voice.
+<list>
+                              <item>Oral (and may be ſtiled) Ore-vocal.</item>
+                              <item>Ore-Naſal. (and may be ſtiled) Naſo-vocal.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <item>
+                     <hi>Forme,</hi> Ar<g ref="char:EOLhyphen"/>ticulation by
+<list>
+                        <item>
+                           <hi>Appulſe</hi> of one Organ to another, <hi>Conſonants</hi> by degree
+<list>
+                              <item>Plenary Cloſe
+<list>
+                                    <item>Lip to Lip. Labial, as B.</item>
+                                    <item>Tong to Gums. Gingival, D.</item>
+                                    <item>Tong to Palat, Palatic, G.</item>
+                                 </list>
+                              </item>
+                           </list>
+                           <list>
+                              <item>Partial Pervious
+<list>
+                                    <item>Lip to Teeth. Labiodental V.</item>
+                                    <item>Tong to Teeth, Lingua<g ref="char:EOLhyphen"/>dental Dh.</item>
+                                    <item>Tong to Gums, Gingival
+<list>
+                                          <item>Sibilant. Z.</item>
+                                          <item>Jarring. R.</item>
+                                          <item>Lateral. L.</item>
+                                       </list>
+                                    </item>
+                                    <item>Tong to Palat, Palatic, Zh. or J.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item>Inclination of one Organ to another without Appulſe.</item>
+                        <item>
+                           <hi>Vowels—α. a. ae. e. i. o. oo. u. <g ref="char:ougr">ȣ</g>.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <pb n="97" facs="tcp:49742:53"/>
+            <p>Thus there are 9 Articulations with Appulſe, which applied ſeve<g ref="char:EOLhyphen"/>rally to four ſorts of matter, <hi>viz. Breath-Oral, Breath Ore-naſal, Voice-Oral, Voice-Ore-naſal,</hi> may make 36 Conſonants; whereof I have in<g ref="char:EOLhyphen"/>ſtanced in one to each Articula<g ref="char:EOLhyphen"/>tion, having before deſcribed o<g ref="char:EOLhyphen"/>ther three to each Articulation. And likewiſe nine Articulations without Appulſe ſo applied, may make 39 vowels.</p>
+            <pb n="98" facs="tcp:49742:54"/>
+            <p>Of theſe ſome are
+<list>
+                  <item>
+                     <hi>Commodious</hi>
+                     <list>
+                        <item>Conſonants
+      <list>
+                              <item>Ore-ſpirital, 7. p. t. k. f. th. s. sh.</item>
+                              <item>Ore-vocal, 9. b. d. g. v. dh. z. zh. l. r.</item>
+                              <item>Naſo-vocal, 3. M. N. Ng.</item>
+                           </list>
+                        </item>
+                        <item>Vowels,
+      <list>
+                              <item>Orevocal—9. <hi>α.</hi> a. ae. e. i. o. oo. u. <g ref="char:ougr">ȣ</g>.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Uneaſie</hi> and unplea<g ref="char:EOLhyphen"/>ſant, or not ſuffici<g ref="char:EOLhyphen"/>ently diſtinct.
+   <list>
+                        <item>Conſonants
+      <list>
+                              <item>Ore-ſpirital 2. L<hi rend="sup">•</hi> R<hi rend="sup">c</hi>
+                              </item>
+                              <item>Naſo-ſpirital 9.</item>
+                              <item>Naſo-vocal 6.</item>
+                           </list>
+                        </item>
+                        <item>Vowels
+      <list>
+                              <item>Ore-ſpirital 9. <hi>viz.</hi> in vocal ſpeech, (of which I am treating) but in whispering they are commodious.</item>
+                              <item>Naſo-ſpirital 9. <hi>viz.</hi> in vocal ſpeech, (of which I am treating) but in whispering they are commodious.</item>
+                              <item>Naſo-vocal 9. <hi>viz.</hi> in vocal ſpeech, (of which I am treating) but in whispering they are commodious.</item>
+                              <item>Of intermediare Figures without deter<g ref="char:EOLhyphen"/>minate number.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>The Vowels, in reſpect of their Articulations, may ſeem not unfitly to be ſorted into 
+<list>
+                  <item>Guttural—oo. o.α.</item>
+                  <item>Palatic—a. ae. e. i.</item>
+                  <item>Labio-Guttural—<g ref="char:ougr">ȣ</g>.</item>
+                  <item>Labio-Palatic—u.</item>
+               </list>
+            </p>
+            <p>There are ſome other Accidents beſides thoſe ſpoken of before, which have an Influence in vary<g ref="char:EOLhyphen"/>ing the Sound of Languages, as <hi>Accent</hi> and <hi>Emphaſis;</hi> which though now much confounded, ſeem to have been formerly more
+<pb n="99" facs="tcp:49742:54"/>diſtinguiſhed. <hi>Accent,</hi> as in the <hi>Greek</hi> names and uſage, ſeems to have regarded the Tune of the voice; the <hi>Acute</hi> accent raiſing the Voice in ſome certain Sylla<g ref="char:EOLhyphen"/>bles, to a higher, <hi>i. e.</hi> more acute Pitch or Tone, and the <hi>Grave</hi> de<g ref="char:EOLhyphen"/>preſſing it lower, and both ha<g ref="char:EOLhyphen"/>ving ſome <hi>Emphaſis, i. e.</hi> more vigorous pronunciation. The <hi>Cir<g ref="char:EOLhyphen"/>cumflex</hi> keeps the voice in a mid<g ref="char:EOLhyphen"/>dle Tune, and therefore in the <hi>Latine</hi> is compounded of both the other, but withal adding an <hi>Em<g ref="char:EOLhyphen"/>phaſis</hi> and longer ſtay upon that Syllable, expreſſed in <hi>Greek</hi> by a ſuitable character [῀] And therefore the Syllable, which is circumflexed, is always accompt<g ref="char:EOLhyphen"/>ed long. This <hi>Tuning</hi> of the Voice by <hi>Accent,</hi> is of great concern to the <hi>gracefulneſs</hi> of pronunciation.
+<pb n="100" facs="tcp:49742:55"/>And although our Languages have not ſuch accurate Rules for it as the <hi>Greek</hi> had, yet it is much conſi<g ref="char:EOLhyphen"/>dered, and ſubmitted to the judgement of more Critical Ears, to direct and determine what is graceful, and what is not; and here ariſes a difference in the Sound of Languages, by the different Uſe of Accent. For example, the <hi>French</hi> and <hi>Greek</hi> run contrary one to the other: Whereas the <hi>Greek</hi> in the end of a word chan<g ref="char:EOLhyphen"/>geth the <hi>Acute</hi> accent to a <hi>Grave,</hi> and moſt Languages have ſome<g ref="char:EOLhyphen"/>what like (which is therefore cal<g ref="char:EOLhyphen"/>led <hi>Cadence</hi> of their voice;) the <hi>French</hi> conclude with an <hi>acute</hi> Ac<g ref="char:EOLhyphen"/>cent, raiſing the Tune of their Voice in the <hi>laſt</hi> Syllable.</p>
+            <p>
+               <hi>Emphaſis</hi> is of a larger conſide<g ref="char:EOLhyphen"/>ration and extent, and not ſo much
+<pb n="101" facs="tcp:49742:55"/>regards the Tune (leaving that to Accent) as a certain <hi>Gran<g ref="char:EOLhyphen"/>deur,</hi> whereby ſome Letter, Sylla<g ref="char:EOLhyphen"/>ble, Word, or Sentence is rendred more remarkable than the reſt, by a more vigorous pronunciation, and a longer ſtay upon it: As, in a <hi>Speech</hi> ſome Sentences are made more remarkable, in a <hi>Sentence</hi> ſome one or two words; in a <hi>Word,</hi> ſome one Syllable; and in a <hi>Sylla<g ref="char:EOLhyphen"/>ble,</hi> ſome one Letter. And of theſe <hi>Two</hi> laſt I am chiefly here concern<g ref="char:EOLhyphen"/>ed to take notice.</p>
+            <p>In a <hi>Poly-ſyllable</hi> word, it is firſt to be conſidered, to which Sylla<g ref="char:EOLhyphen"/>ble the <hi>Emphaſis</hi> is to be given, and in each Syllable, to which Letter the former of theſe is uſu<g ref="char:EOLhyphen"/>ally confounded with Accent; but in the later lies the greateſt difference of Pronunciation, the
+<pb n="102" facs="tcp:49742:56"/>Conſonants coming in for a ſhare of <hi>Emphaſis,</hi> and making a Sylla<g ref="char:EOLhyphen"/>ble long, where the Vowel is ſhort: E. g. <hi>Altera,</hi> in reſpect of the whole word, the <hi>Emphaſis</hi> and <hi>Accent</hi> lies in the firſt Syllable, but then that Syllable is again ca<g ref="char:EOLhyphen"/>pable of a two-fold <hi>Emphaſis, viz.</hi> either in the Vowel or in the Con<g ref="char:EOLhyphen"/>ſonant. Moſt Foreigners pro<g ref="char:EOLhyphen"/>nounce their Vowels ſoft, as this they pronounce <hi>Aaltera,</hi> or <hi>Aul<g ref="char:EOLhyphen"/>tera,</hi> ſtaying upon the Vowel, and making a ſoft gentle Appulſe in the Conſonant; <hi>We</hi> are apt to pronounce it <hi>Altera,</hi> making the Vowel ſhort and giving the <hi>Em<g ref="char:EOLhyphen"/>phaſis</hi> to the Conſonant. And this kind of <hi>Emphaſis, viz.</hi> of the Conſonant, is apt to gain too much place in our Speech, and I take it to be a general vicious habit in our
+<pb n="103" facs="tcp:49742:56"/>pronunciation, as they, who learn to ſing, will find; for their firſt at<g ref="char:EOLhyphen"/>tempt muſt be, to unlearn that ha<g ref="char:EOLhyphen"/>bit. So alſo We ſay <hi>Forma,</hi> they, <hi>Fôrma,</hi> or (as we would write it, if it were <hi>Engliſh</hi>) <hi>Forema.</hi> We ſay, <hi>Mórtem;</hi> they <hi>Moretem</hi> or <hi>Moortem.</hi> We ſay, <hi>Cońſonańt,</hi> they <hi>Cônſonánt,</hi> or, <hi>Coneſonaunt.</hi> We ſay, <hi>Catt,</hi> they, <hi>Caut.</hi> Yet ſome<g ref="char:EOLhyphen"/>thing may be ſaid on our behalf, that giving an Emphatical Sound to the Conſonants, makes our Pro<g ref="char:EOLhyphen"/>nunciation more diſtinct, and cer<g ref="char:EOLhyphen"/>tain to the Ear. And here it may be proper to aſſert, that there is no ſuch thing in nature as a <hi>double Letter,</hi> either Conſo<g ref="char:EOLhyphen"/>nant or Vowel, in one and the ſame Syllable, and it is incongru<g ref="char:EOLhyphen"/>ous, to write them ſo. For where<g ref="char:EOLhyphen"/>as every Letter written ſhould
+<pb n="104" facs="tcp:49742:57"/>have one and but one determi<g ref="char:EOLhyphen"/>nate ſignification, to expreſs the power of ſome one certain Sound made by the Mouth; with more than <hi>Poetical</hi> Licence one ſigne is ſet for another, and the ſame Letters in the ſame Alphabet in ſeveral words, are made to have ſeveral powers. Thus in our <hi>En<g ref="char:EOLhyphen"/>gliſh, ee,</hi> and <hi>ie,</hi> and <hi>e,</hi> for <hi>i,</hi> (as <hi>Feel, Field, Engliſh:</hi>) oo for <g ref="char:ougr">ȣ</g>, <hi>&amp;c.</hi> And frequently the <hi>Emphaſis</hi> is incongruouſly ſupplied by adding quieſcent Letters (the Phraſe confeſſing the abſurdity) as <hi>Bate Batt, Baſe Baſſe, Bare Barre.</hi> But I do not intend to purſue the many <hi>Pſeudography's</hi> in uſe, which are too numerous; but to ſhew of how great concern the Em<g ref="char:EOLhyphen"/>phaſis were, if rightly uſed; and how moſt of thoſe <hi>Anoma<g ref="char:EOLhyphen"/>lies</hi>
+               <pb n="105" facs="tcp:49742:57"/>in writing might be avoided, and better ſupply'd by noting our Words or Syllables, that need it, with ſome mark of <hi>Emphaſis.</hi> This will ſhew, when a Vowel is to be pronounced long or ſhort, and cut off ſuperfluous Quieſcent Letters, and double Conſonants: for, when there is a double Con<g ref="char:EOLhyphen"/>ſonant written, though ſometimes it changeth the Vowel, <hi>Ale, All, Cale, Call;</hi> yet generally it ſerves to transfer the <hi>Emphaſis</hi> from the Vowel to the Conſonant.</p>
+            <p>This kind of <hi>Emphaſis</hi> then, I mean not the Emphaſis of a Sylla<g ref="char:EOLhyphen"/>ble in reference to a word, but the Emphaſis of a Letter in reſpect of Syllables, as it is to belong either to the Vowel, or to the later Con<g ref="char:EOLhyphen"/>ſonant (if there be any) in the ſame ſyllable, if it were better
+<pb n="106" facs="tcp:49742:58"/>heeded, and noted by ſome mark, would conduce much to <hi>Ortho<g ref="char:EOLhyphen"/>graphy;</hi> as for example, if an Ac<g ref="char:EOLhyphen"/>cent were placed over the Vow<g ref="char:EOLhyphen"/>el, or elſe over the Conſonant, as the caſe requires, <hi>ál, al,</hi> or rather, leaving the Accent to mark out the Syllable in a word, to which <hi>Emphaſis</hi> is due, where need is; make uſe of long and ſhort Cha<g ref="char:EOLhyphen"/>racters ſet over the Vowel, and to make the leaſt work, ſuppoſe eve<g ref="char:EOLhyphen"/>ry Vowel to be long, which is not marked, and mark onely thoſe Vowels, which are to be pronounc<g ref="char:EOLhyphen"/>ed ſhort, and the <hi>Emphaſis</hi> tranſ<g ref="char:EOLhyphen"/>ferred to the following Conſo<g ref="char:EOLhyphen"/>nant. Thus inſtead of <hi>Ball Boll, Bale, Ballad; Beal, Bell; Biele,</hi> or <hi>Beel, Bil;</hi> write <hi>Bαl, Băl; Bal, Bălad; Bel, Bĕl; Bil, Bĭl:</hi> I ſay, if our pronunciation were written in
+<pb n="107" facs="tcp:49742:58"/>proper Letters, and with marks of <hi>Emphaſis,</hi> it would reſtore <hi>Or<g ref="char:EOLhyphen"/>thography,</hi> and cut off many ſu<g ref="char:EOLhyphen"/>perfluous Letters that are written, not to be pronounced, but onely to make an incongruous ſupply of <hi>Emphaſis,</hi> or to alter the pow<g ref="char:EOLhyphen"/>er of ſome other Letters in the ſame word; whereof in ſome Lan<g ref="char:EOLhyphen"/>guages ſo many examples are found, that it would be tedious to recount them. In the mean time we are apt very unjuſtly to laugh at the uncouth Spelling in the wri<g ref="char:EOLhyphen"/>tings of unlearned perſons, who writing as they pleaſe, that is, uſing ſuch Letters, as juſtly expreſs the power or Sound of their Speech; yet, forſooth, we ſay write not <hi>true Engliſh,</hi> or <hi>true French,</hi> &amp;c. Whereas the <hi>Gram<g ref="char:EOLhyphen"/>marians</hi> themſelves, ought rather
+<pb n="108" facs="tcp:49742:59"/>to be blamed, and derided for accommodating Words ſo ill with Letters, and Letters with ſo faulty <hi>Alphabets,</hi> that it requires almoſt as much pains to learn how to pro<g ref="char:EOLhyphen"/>nounce what is written, and to write what is ſpoken, as would ſerve to learn the Language it ſelf, if Characters or Signs written were exactly accommodated to Speech. But, though it be true, that this ſo needleſs and unprofi<g ref="char:EOLhyphen"/>table incumbrance of Learning might wholly be removed by rectified Alphabets, and ſetling a juſt correſpondence between the Signs <hi>Audible,</hi> and the Signs <hi>Viſi<g ref="char:EOLhyphen"/>ble,</hi> if ſuch <hi>Alphabets</hi> and a regu<g ref="char:EOLhyphen"/>lar uſage of them could take place; yet it is not to be ho<g ref="char:EOLhyphen"/>ped or imagined, that the incon<g ref="char:EOLhyphen"/>gruous Alphabets, and Abuſes of
+<pb n="109" facs="tcp:49742:59"/>writing can ever be juſtled out of their Poſſeſſion of all Libraries and Books, and univerſal habit and practice of Mankind. This were to imply, that all Books in being ſhould be deſtroyed and a<g ref="char:EOLhyphen"/>boliſhed, being firſt new Printed after ſuch rectified Alphabets; and that all the Age ſhould be pre<g ref="char:EOLhyphen"/>vailed with, to take new pains to unlearn thoſe habits, which have coſt them ſo much labour. Nei<g ref="char:EOLhyphen"/>ther did any ſuch Hopes or Am<g ref="char:EOLhyphen"/>bition ſet my thoughts on work, but <hi>partly</hi> the worthineſs and cu<g ref="char:EOLhyphen"/>rioſity of this Subject in it ſelf, and <hi>chiefly</hi> the great uſe of an accurate knowledge of the Nature of Let<g ref="char:EOLhyphen"/>ters and Speech, in directing to a ſteady and effectual way of <hi>In<g ref="char:EOLhyphen"/>ſtructing Deaf</hi> and <hi>Dumb perſons,</hi> to obtain a reaſonable perfection
+<pb n="110" facs="tcp:49742:60"/>of utterance of Speech; and to diſcern (in ſome meaſure) with their Eye, by obſerving the mo<g ref="char:EOLhyphen"/>tions of their Mouth, what others ſpeak. And to that end I have added to this Eſſay an <hi>Appendix,</hi> relating that deſigne; both which I hope and promiſe my ſelf, will find a Candid reception from thoſe, who ſhall conſider theſe poor and ſlight Papers, as a work of Charity and Compaſſion; and may be acceptable to them, as it is pleaſing to my ſelf, to have ſtu<g ref="char:EOLhyphen"/>died ſome relief for the Calami<g ref="char:EOLhyphen"/>tous and Deplorable Condition of perſons Deaf and Dumb.</p>
+         </div>
+      </body>
+      <back>
+         <div type="appendix">
+            <pb n="111" facs="tcp:49742:60"/>
+            <head>APPENDIX Concerning Perſons DEAF AND DUMB.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Mongſt <hi>Dumb</hi> Per<g ref="char:EOLhyphen"/>ſons, there are very ſew, who are ſuch through defect in the Organs of Speech; but moſt commonly that Imperfection is the effect, or rather conſequence of <hi>want</hi> of <hi>Hearing,</hi> by ſome diſorder or defect in the Organs appertain<g ref="char:EOLhyphen"/>ing to that Senſe. The Organs of
+<pb n="112" facs="tcp:49742:61"/>
+               <hi>Speech</hi> are many and large, and managed by ſo great a number of Muſcles, that Speech is not ea<g ref="char:EOLhyphen"/>ſily deſtroy'd, though often ſome<g ref="char:EOLhyphen"/>what vitiated, as to ſome particu<g ref="char:EOLhyphen"/>lar Letters, and as to ready pro<g ref="char:EOLhyphen"/>nunciation in general; but they, who have ſuch Imperfections, are not thereby utterly deprived of the <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> of Speech: whereas the <hi>Or<g ref="char:EOLhyphen"/>gans</hi> of <hi>Hearing</hi> are few and ſmall, and a little diſorder or defect who<g ref="char:EOLhyphen"/>ly overthrows the uſe of that Sence. There are three very lit<g ref="char:EOLhyphen"/>tle Bones in the Ear, upon whoſe right conſtitution, depends the due Tenſion of the <hi>Tympanum;</hi> and if the action of one little Muſcle, which ſerves to draw one of theſe <hi>Oſſicles,</hi> fixt to the <hi>Tym<g ref="char:EOLhyphen"/>panum,</hi> be loſt or abated, the <hi>ten<g ref="char:EOLhyphen"/>ſion</hi> of that Membrane ceaſing,
+<pb n="113" facs="tcp:49742:61"/>Sound is hindred from coming in<g ref="char:EOLhyphen"/>to the Ear: And I am of opinion, that the moſt frequent <hi>cauſe</hi> of <hi>Deafneſs</hi> is to be attributed to the Laxneſs of the <hi>Tympanum,</hi> when it has loſt its Brace or Tenſion by ſome irregularity in the Figure of thoſe Bones, or defect in that Muſcle: Some inſtance whereof, I have formerly given in a Paper preſented to the <hi>Royal Society,</hi>
+               <note n="*" place="margin">See the end of this Diſcourſe.</note> whereby Sound is, as it were, ſhut out of doors by the interventi<g ref="char:EOLhyphen"/>on of that Laxe Membrane, and not ſuffer'd to paſs into the in<g ref="char:EOLhyphen"/>ward Ear, and arrive at the <hi>Audi<g ref="char:EOLhyphen"/>tory Nerve:</hi> Like as the Voice is ſometimes intercluded by a hoarſ<g ref="char:EOLhyphen"/>neſs, or viſcous phlegme, cleav<g ref="char:EOLhyphen"/>ing to the <hi>Aſpera Arteria, Larynx</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>vula;</hi> ſo that, allhough there be no fault in the Organs of
+<pb n="114" facs="tcp:49742:62"/>Articulation, yet there is no voice to be Articulated.</p>
+            <p>Now as to the moſt general caſe of thoſe who are <hi>Deaf</hi> and <hi>Dumb;</hi> I ſay, they are <hi>Dumb</hi> by <hi>conſe<g ref="char:EOLhyphen"/>quence</hi> from their Deaſneſs, one<g ref="char:EOLhyphen"/>ly becauſe they are not taught to ſpeak. The <hi>Natural part of Speech, viz.</hi> Words made of Letters, by ſuch exquiſite various Articulati<g ref="char:EOLhyphen"/>ons, is learnt by much practile and imitation. And much more the <hi>Artificial</hi> part, <hi>viz.</hi> Inſtitution of Significancy of Language, cannot be acquired without great help of Inſtruction. And to that end the Tong and the Ear, Speaking and Hearing, hold a correſpondence, by which we learn to imitate the Sound of Speech, and underſtand the meaning of it. But he that never <hi>hears</hi> a word ſpoken, nor
+<pb n="115" facs="tcp:49742:62"/>can be told what it ſignifies, it is no wonder if ſuch an one remain ſpeechleſs: as out of queſtion any one muſt do (though of integral principles) who from an Infant ſhould be bred up amongſt <hi>Mutes,</hi> and have no teaching. Such then is the caſe in hand, that they who want that <hi>Sence</hi> of <hi>Diſcipline (Hearing)</hi> are alſo by conſe<g ref="char:EOLhyphen"/>quence deprived of Speech, not by any immediate <hi>Organical In<g ref="char:EOLhyphen"/>diſpoſition,</hi> but for <hi>want of Diſci<g ref="char:EOLhyphen"/>pline.</hi>
+            </p>
+            <p>Finding then a Perſon in this condition, not capable of Hear<g ref="char:EOLhyphen"/>ing; if we would endeavour to make uſe of the Organs of Speech (ſuppoſed to be of ſufficient con<g ref="char:EOLhyphen"/>ſtitution) there is no way, but to have recourſe to the other Learn<g ref="char:EOLhyphen"/>ed Senſe, which is <hi>Seeing;</hi> and
+<pb n="116" facs="tcp:49742:63"/>to find out ſome means (though farther about and more labori<g ref="char:EOLhyphen"/>ous) of inſtructing him by his Eyes, and ſhewing him the viſible motions and figures of the Mouth, by which Speech is Articulated. And to apply the Doctrine of Letters to this uſe and purpoſe, is the Deſign of this <hi>Appendix.</hi> Where our firſt buſineſs had need be, to Animate the <hi>
+                  <g ref="char:V">Ʋ</g>ndertaker,</hi> and conſider, <hi>whether</hi> it be poſſi<g ref="char:EOLhyphen"/>ble or no: For it muſt be confeſ<g ref="char:EOLhyphen"/>ſed, that there lie in the way great Objections and Difficulties, which ſeem to diſcourage, and portend ſuch a deſign unfeſible. But I doubt not to ſhew you, how to overcome thoſe ſeeming demon<g ref="char:EOLhyphen"/>ſtrable Impoſſibilities, and ſhew, how truly it is ſaid, <hi>Venit miſeris ſolertia rebus.</hi>
+            </p>
+            <pb n="117" facs="tcp:49742:63"/>
+            <p>The <hi>First</hi> difficulty which oc<g ref="char:EOLhyphen"/>curs, is, that it will be painful and irkſome to a deaf Perſon to <hi>exerciſe</hi> his Voice, as even thoſe, who have no defect, are apt to be tired and ſpent with much ſpeak<g ref="char:EOLhyphen"/>ing, and find a hoarſneſs in their Voice, and wearineſs in the Lungs and Muſcles of the <hi>Larynx;</hi> and it will be very hard to prevail with him to ſubmit himſelf to ſo troubleſome a courſe of Learn<g ref="char:EOLhyphen"/>ing, being Deaf to all perſwa<g ref="char:EOLhyphen"/>ſions and arguments, by which we might excite him to it. I con<g ref="char:EOLhyphen"/>feſs, this <hi>Objection</hi> ſtands upon the threſhold, as a great diſcourage<g ref="char:EOLhyphen"/>ment. And except a great regard be had to it, who ever goes a<g ref="char:EOLhyphen"/>bout this deſigne, will attempt it in vain, eſpecially in the firſt progreſs in it. Therefore the
+<pb n="118" facs="tcp:49742:64"/>
+               <hi>Deaf</hi> Perſon muſt be gently and diſcreetly treated, and by all kind of pleaſant uſage wrought upon, to take ſome pains at it; watching your ſeaſons, and taking great care, that he may not hate his task, but do it cheerfully. He muſt be allured by much ſweetneſs, and encouraged, as oft as you have the leaſt occaſion, by applauſe and admiration; and muſt exerciſe <hi>of<g ref="char:EOLhyphen"/>ten,</hi> and a <hi>little</hi> at a <hi>time,</hi> ſo as not to vex and weary him; and in ſome time, habit and cuſtom, and the pleaſure he will take in it, will make it eaſier to him.</p>
+            <p n="2">2. Some of the Conſonants, and moſt of the Vowels, being Articulated by ſo <hi>obſcure Motions</hi> and <hi>Figures,</hi> that the moſt Learn<g ref="char:EOLhyphen"/>ed can hardly agree to deſcribe them, it may well be doubted how
+<pb n="119" facs="tcp:49742:64"/>they can be deſcribed to the Eye of Deaf Perſons. And further, if all the 9 Articulations of the 19 Conſonants were underſtood and imitated by him; yet how can he diſcern the <hi>Material Dif<g ref="char:EOLhyphen"/>ferences,</hi> which make up the num<g ref="char:EOLhyphen"/>ber of Conſonants, and conſiſt onely in Sound, and cannot be repreſented to the Eye.</p>
+            <p>The <hi>former</hi> part of this ob<g ref="char:EOLhyphen"/>jected difficulty is caſily anſwer<g ref="char:EOLhyphen"/>ed by ſaying, that in Aſcents, e<g ref="char:EOLhyphen"/>very ſtep gained is a footing and help to the next: and in the Ele<g ref="char:EOLhyphen"/>ments of <hi>Geometry,</hi> the Definiti<g ref="char:EOLhyphen"/>ons, and Axioms, and Poſtulata, and eaſier propoſitions, ſerve to elucidate, and demonſtrate hard<g ref="char:EOLhyphen"/>er <hi>Theorems</hi> and <hi>Problems.</hi> Thus you will find, that when you have conducted him through the plainer
+<pb n="120" facs="tcp:49742:65"/>part of the <hi>Alphabet,</hi> he will be<g ref="char:EOLhyphen"/>gin ſo far to underſtand his task, that more imperfect deſcriptions will ſerve to carry him on to the end of it.</p>
+            <p>As to the ſecond part of this objection, it muſt be confeſſed a thing not feſible to repreſent the <hi>Material Difference</hi> of Conſonants to the Eye; Sound being onely the object of Hearing: Yet the <hi>Naſal</hi> Differences may be point<g ref="char:EOLhyphen"/>ed at; but thoſe <hi>Seven pairs,</hi> be<g ref="char:EOLhyphen"/>fore diſcourſed of, cannot be di<g ref="char:EOLhyphen"/>ſtinguiſhed by <hi>Sight.</hi> And in this caſe it is chiefly that I ſaid, the deſigne muſt be compaſſed by a way further about; and ſuch a way I ſhall direct in its proper place, which ſhall eaſily and cer<g ref="char:EOLhyphen"/>tainly effect it.</p>
+            <p n="3">3. Suppoſing a Deaf perſon to
+<pb n="121" facs="tcp:49742:65"/>have gained a perfect pronuncia<g ref="char:EOLhyphen"/>tion of all Letters and Words, and that all the Articulations were to be diſcerned by his Eye, in the Mouth of one who ſpeaks to him; yet this, as to Conſonants, could diſcover but 9 differences, and muſt leave 10 Letters and in<g ref="char:EOLhyphen"/>deed all undiſtinguiſhed: ſo that it is impoſſible to diſcern certainly what Letter is pronounced. And then it muſt likewiſe ſeem impoſ<g ref="char:EOLhyphen"/>ſible (what is ſo frequently ſpo<g ref="char:EOLhyphen"/>ken of and atteſted) for a Deaf Perſon, by obſerving the Moti<g ref="char:EOLhyphen"/>ons of another mans Mouth, to know what he ſays, and to uphold a current communication of diſ<g ref="char:EOLhyphen"/>courſe with him.</p>
+            <p>This <hi>objection</hi> ſeems unanſwer<g ref="char:EOLhyphen"/>able, and the difficulty not to be conquered; and it muſt be grant<g ref="char:EOLhyphen"/>ed,
+<pb n="122" facs="tcp:49742:66"/>that it is impoſſible to know <hi>infallibly</hi> by the Eye, what ano<g ref="char:EOLhyphen"/>ther ſpeaks. But yet there is an equity and relief in this Caſe, as I ſhall make appear in caſes not much different. As Firſt, Any <hi>Equivocal</hi> word ſpoken <hi>alone,</hi> can<g ref="char:EOLhyphen"/>not be determined to any one cer<g ref="char:EOLhyphen"/>tain Senſe and Signification by him that hears it; of which there are numerous examples in every Language: Yet the ſame word in <hi>Connexion</hi> of Speech, as part of a ſentence, is underſtood as eaſi<g ref="char:EOLhyphen"/>ly as any other; ex. gr. <hi>But:</hi> if I ask you, what I mean by that word, you will anſwer, I may mean this or that thing, or ſome<g ref="char:EOLhyphen"/>thing elſe, you cannot tell which: you can diſtinguiſh, but you muſt leave me to determine; but if I joyn it with other words in Con<g ref="char:EOLhyphen"/>ſtruction
+<pb n="123" facs="tcp:49742:66"/>and Senſe, as (<hi>But</hi> I will not. (a <hi>But</hi> of <hi>Wine.</hi>) <hi>But</hi> and <hi>Boundary</hi>) the Ramme will <hi>But</hi>) <hi>(Shoot at a But);</hi> the meaning of it will be as ready to you, as any other word. In like manner if the Deaf Perſon diſcern with his Eye one ſingle Articulation, ſuppoſe by the Appulſe of the Lips, he cannot diſtinguiſh whe<g ref="char:EOLhyphen"/>ther it be <hi>p. b.</hi> or <hi>m.</hi> But this ſame Articulation joyned with others, in Words and Senſe, he having a general perception of the ſub<g ref="char:EOLhyphen"/>ject, whereof you diſcourſe, and a greater than ordinary meaſure of Sagacity, will not be to ſeek, which of theſe three <hi>Labial</hi> Con<g ref="char:EOLhyphen"/>ſonants you uſed.</p>
+            <p>There is a common experi<g ref="char:EOLhyphen"/>ment, which will come ſtill near to the caſe in hand; in <hi>Whiſper<g ref="char:EOLhyphen"/>ing,</hi>
+               <pb n="124" facs="tcp:49742:67"/>we Articulate onely <hi>Ore-ſpi<g ref="char:EOLhyphen"/>rital,</hi> and <hi>Naſo-ſpirital</hi> Sounds, and yet uſe words, which conſiſt much of <hi>Ore-vocal,</hi> and <hi>Naſo-vocal</hi> Con<g ref="char:EOLhyphen"/>ſonants, and have no other differ<g ref="char:EOLhyphen"/>ence from other Conſonants of the ſame Articulation, but that they are Vocal. And theſe <hi>Vo<g ref="char:EOLhyphen"/>cal</hi> Letters in Whispering we make <hi>Spirital,</hi> and ſo they come to be the very ſame, each with his com<g ref="char:EOLhyphen"/>pere, which is <hi>Ore-ſpirital;</hi> of which I have given 7 pairs in the diſcourſe foregoing. Now, though <hi>b</hi> and <hi>p, t</hi> and <hi>d, k</hi> and <hi>g, f</hi> and <hi>v, th</hi> and <hi>dh, s</hi> and <hi>z, ſh</hi> and <hi>zh,</hi> are but in effect 7 Letters, and have no diſtinction at all, each from his Compere, in <hi>Whiſpering,</hi> neither in reſpect of <hi>Organ,</hi> nor <hi>Articulation,</hi> nor <hi>Sound:</hi> and there<g ref="char:EOLhyphen"/>fore being ſingly pronounced, can<g ref="char:EOLhyphen"/>not
+<pb n="125" facs="tcp:49742:67"/>be diſtinguiſh'd neither by the Eye nor Ear; yet we are not at all perplext with the confuſion of theſe Letters in <hi>whiſpering,</hi> but by our habit and knowledge of Lan<g ref="char:EOLhyphen"/>guage, can as readily underſtand one another, when we whisper, as when we ſpeak aloud: &amp; yet theſe Conſonants are not much leſs con<g ref="char:EOLhyphen"/>fuſed to the <hi>Ear</hi> in <hi>Whiſpering,</hi> than in <hi>Speaking</hi> they are to the <hi>Eye.</hi>
+            </p>
+            <p>It is obſervable, that the Hiſto<g ref="char:EOLhyphen"/>ries of thoſe, who could diſcern <hi>Speech</hi> by their <hi>Eye,</hi> are moſt of ſuch, as having had knowledge of Language, and a readineſs in Speaking, falling afterwards into Deafneſs, have loſt the <hi>uſe</hi> of Speech, but ſtill retein the <hi>me<g ref="char:EOLhyphen"/>mory</hi> of it. Now if we can by Induſtry, make our Deaf and Dumb Perſons reaſonably perfect
+<pb n="126" facs="tcp:49742:68"/>in the Language and Pronuncia<g ref="char:EOLhyphen"/>tion, he may be alſo capable of the ſame priviledge of underſtand<g ref="char:EOLhyphen"/>ing by the Eye what is ſpoken, though the Letters ſingly pro<g ref="char:EOLhyphen"/>nounced are ambiguous and may deceive him. <hi>In ſhort,</hi> though it be impoſſible for a Deaf Perſon, by his Eye accurately and cer<g ref="char:EOLhyphen"/>tainly to diſtinguiſh Letters <hi>ſingly</hi> ſpoken, (as it is likewiſe in words equivocal ſpoken, and Letters whispered, to thoſe that hear;) Yet in tract of Speech, as a du<g ref="char:EOLhyphen"/>bious word is eaſily known by the Coherence with the reſt; and a dubious Letter by the whole Word; ſo may a Deaf Perſon, ha<g ref="char:EOLhyphen"/>ving attained a competent know<g ref="char:EOLhyphen"/>ledge of Language, and aſſiſted by an acute Sagacity, by ſome more evident word diſcerned by
+<pb n="127" facs="tcp:49742:68"/>his Eye, know the Sence, and by the Sence other Words, and by the Words the obſcurer Letters; and ſo, notwithſtanding this diffi<g ref="char:EOLhyphen"/>culty objected, make good uſe of this Inſtitution, not onely to ſpeak, but, in a good meaſure (ſo far as to ſerve for converſe) know what others ſay to him: And the ra<g ref="char:EOLhyphen"/>ther, becauſe having learnt by his Eye, and being inured to that kind of obſervation, he is quicker to perceive the Motions of Articu<g ref="char:EOLhyphen"/>lation, and Conjunctures of Let<g ref="char:EOLhyphen"/>ters in Words, than we can eaſily imagine.</p>
+            <p>Having thus ſurmounted the difficulties, I ſhall mention ſome ſuch things as give encourage<g ref="char:EOLhyphen"/>ment to this enterprize. And <hi>Firſt</hi> that, which was before hinted, that in Deaf and Dumb Perſons,
+<pb n="128" facs="tcp:49742:69"/>their <hi>Neceſſity</hi> excites a great ob<g ref="char:EOLhyphen"/>ſervation and ſagacity to ſupply their defects, and to bear up and maintain Converſe with others, who enjoy the benefit of all their Senſes. And being denyed Com<g ref="char:EOLhyphen"/>munication by the <hi>Ear,</hi> their Eyes are the more vigilant, attent and heedful, which renders them much more capable of being im<g ref="char:EOLhyphen"/>proved by directions and inſtru<g ref="char:EOLhyphen"/>ctions applyed to that Senſe, and gives a delight and encourage<g ref="char:EOLhyphen"/>ment to thoſe, who teach ſuch ap<g ref="char:EOLhyphen"/>prehenſive Scholars.</p>
+            <p n="2">2. The onely moveable Or<g ref="char:EOLhyphen"/>gans belonging to the Sence of Hearing, being Two of thoſe Three little <hi>Bones</hi> before menti<g ref="char:EOLhyphen"/>oned, <hi>viz.</hi> the <hi>Incus</hi> and <hi>Malleus;</hi> and ſo much depending upon the adequate motion of thoſe
+<pb n="129" facs="tcp:49742:69"/>Two <hi>Oſſicles</hi> to give due Tenſion to the <hi>Tympanum,</hi> their Motions being ſmall, are eaſily ſubverted, and from thence moſt frequently comes <hi>loſs of Hearing.</hi> Now that which I would infer, is, That in <hi>thoſe</hi> generally the <hi>Auditory Nerve,</hi> is ſound, and by a <hi>branch</hi> of the ſame <hi>Nerve,</hi> that goes between the Ear and the Palat of the Mouth, they can make a ſhift to hear them<g ref="char:EOLhyphen"/>ſelves, though their outward Ear be ſtopt by the Laxe Membrane to all Sounds, that come that way; and ſo they have ſome little plea<g ref="char:EOLhyphen"/>ſure in ſpeaking, and guide them<g ref="char:EOLhyphen"/>ſelves by that little Hearing, to retein, and improve a habit of Speaking whatſoever they have once been taught.</p>
+            <p n="3">3. The <hi>Figures</hi> of ſome Arti<g ref="char:EOLhyphen"/>culations are moſt eaſie to be
+<pb n="130" facs="tcp:49742:70"/>ſhewed to the Eye, as the Con<g ref="char:EOLhyphen"/>ſonants <hi>Labial, Labiodental, Lin<g ref="char:EOLhyphen"/>guadental,</hi> and <hi>Gingival,</hi> and <hi>Pa<g ref="char:EOLhyphen"/>latic, Occluſe,</hi> and the <hi>Gingival-Lateral;</hi> ſo that who ſoever makes trial, ſhall begin to make ſome progreſs with great ſucceſs and encouragement, and gain ground to make the remaining part of the <hi>Alphabet</hi> more caſie, by the habit and method of prevailing ſo far onwards.</p>
+            <p n="4">4. <hi>Language</hi> being defined, a <hi>Connexion of the beſt Signes for Communication,</hi> and <hi>Written Lan<g ref="char:EOLhyphen"/>guage, Viſible ſignes of the ſignes Audible;</hi> And the <hi>Elements of each reſpectively,</hi> and the <hi>corre<g ref="char:EOLhyphen"/>ſpondence</hi> and <hi>mutual aſſiſtance</hi> of each to other, being ſuch, as in the foregoing diſcourſe is more fully ſhewn; You have a great
+<pb n="131" facs="tcp:49742:70"/>help, by <hi>ſhewing</hi> Letters and Words <hi>written,</hi> to conduct a Deaf perſon on, in exerciſing him to expreſs the ſame by pronuncia<g ref="char:EOLhyphen"/>tion; and what ſoever you gain upon him <hi>this</hi> way, will be re<g ref="char:EOLhyphen"/>teined, and made uſe of in the <hi>other.</hi> Add to all this the admi<g ref="char:EOLhyphen"/>rable Curioſity and ſingular Ex<g ref="char:EOLhyphen"/>cellency of this deſigne, the con<g ref="char:EOLhyphen"/>ſideration wherof will ſuſtein the Patience and animate the Induſtry of him who ſhall undertake it.</p>
+            <p>Having thus conſidered what ground and incouragement there may be for ſuch an undertaking; I ſhall now in the plaineſt manner I can, lay down ſuch <hi>Directions</hi> and <hi>Rules,</hi> as I my ſelf have made trial of, to inſtruct a Deaf perſon to make uſe of his Organs of Speech, and ceaſe to be Dumb,
+<pb n="132" facs="tcp:49742:71"/>enjoying the great felicity of that moſt expedite way of Commu<g ref="char:EOLhyphen"/>nication: Which may ſerve, till ſome more able Perſon ſhall be excited, by Improvements and Additions, to give a greater Per<g ref="char:EOLhyphen"/>fection to this deſigne.</p>
+            <p>Firſt make your own <hi>Alphabet</hi> ac<g ref="char:EOLhyphen"/>cording to the Number of Letters and their Natural order. In reſpect of eaſineſs, Conſonants firſt (be<g ref="char:EOLhyphen"/>cauſe their Appulſes are manifeſt) and then Vowels; and in ordering Conſonants reſpect chiefly, either
+<list>
+                  <label>Their Sound—</label>
+                  <item>p. t. k. f. θ. s. sh. b. d. g. v. ϑ. z. j. m. n. r. l. r.</item>
+                  <label>Their Organ—</label>
+                  <item>p. b. m. f. v. θ. ϑ. t. d. n. s. z. l. r. sh. j. k. g. r.</item>
+                  <label>Their Degree of Appulſe.—</label>
+                  <item>p. b. t. d. k. g. m. n. n. f. v. θ. ϑ. s. z. sh. j. l. r.</item>
+               </list>
+            </p>
+            <p>The laſt of theſe I take to be much the beſt order, in which to teach a Deaf Perſon. Then, add the Vowels, α. a. æ e. i. o. oo. u. <g ref="char:ougr">ȣ</g>: but ſo accurate a diſtinction will
+<pb n="133" facs="tcp:49742:71"/>not be neceſſary. The through-un<g ref="char:EOLhyphen"/>derſtanding of the nature of this <hi>Alphabet,</hi> will direct you, <hi>what</hi> and <hi>how many</hi> are the Articulations of Letters, which may be repre<g ref="char:EOLhyphen"/>ſented to the Eye; and what are the other differences of Letters, that you may invent ſome other Artifices, beſides viſible repreſen<g ref="char:EOLhyphen"/>tation, to make a Deaf Perſon learn and apprehend them. This Alphabet muſt be your own <hi>Clew</hi> to guide you; but the Deaf per<g ref="char:EOLhyphen"/>ſon is not to be troubled with it, becauſe he is alſo to learn to write and read as others do; and there<g ref="char:EOLhyphen"/>fore muſt be taught the common <hi>Alphabet</hi> of that Language, which he is to learn, and muſt uſe thoſe incongruous compoſitions, and o<g ref="char:EOLhyphen"/>ther Anomalies of vulgar writing; in which you muſt underſtand
+<pb n="134" facs="tcp:49742:72"/>how to manage him, by Reducti<g ref="char:EOLhyphen"/>on of them to the true Alphabet of Nature; in which practiſe, you will (to your coſt) diſcover the inconvenience of faulty Al<g ref="char:EOLhyphen"/>phabets and Uſages of writing.</p>
+            <p>Let him firſt learn to write af<g ref="char:EOLhyphen"/>ter a <hi>Copy</hi> of all the Letters in the vulgar Alphabet, till his Eye be well acquainted with their Fi<g ref="char:EOLhyphen"/>gures, and he be able to write them pretty well. When you be<g ref="char:EOLhyphen"/>gin to teach him to ſpeak,
+ you may uſe this method.  <label type="milestone">
+                  <seg type="milestoneunit">letter(s) </seg>p.</label>  Write down in a paper <hi>p.</hi> and <hi>b;</hi> and make ſignes to him to endeavour to pronounce, and guide him by ſhewing him the motion of your own Lips, to offer at one of thoſe Letters: which being the eaſieſt of all, he will with a little endea<g ref="char:EOLhyphen"/>vour ſtumble upon one of them.
+<pb n="135" facs="tcp:49742:72"/>Shew him upon the Paper the Letter, which he hits upon, and much applauding and encoura<g ref="char:EOLhyphen"/>ging him, make him repeat it of<g ref="char:EOLhyphen"/>ten, till he be very perfect both in the pronunciation and in the written Character of that Letter: ſuppoſe it was <hi>P.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">letter(s) </seg>B</label>  Then next point at B. and direct him with the ſame motion of his Lips to pronounce it. With long trying he percei<g ref="char:EOLhyphen"/>ving, that you require him to make a different Letter with the ſame Figure of the Mouth, will at laſt find out how to do it, and utter ſomething different from <hi>p.</hi> which will be <hi>B,</hi> though he un<g ref="char:EOLhyphen"/>derſtand not, wherein the differ<g ref="char:EOLhyphen"/>ence lies, but finds it out; and being excluded from <hi>p,</hi> and la<g ref="char:EOLhyphen"/>bouring to pronounce another Letter with the ſame Figure of
+<pb n="136" facs="tcp:49742:73"/>his Lips, make him perfect in B. And let him diligently practiſe theſe two Letters, pointing ſome<g ref="char:EOLhyphen"/>times at one, ſometimes at the o<g ref="char:EOLhyphen"/>ther in the paper, till he be per<g ref="char:EOLhyphen"/>fect in both.</p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">letter(s) </seg>T</label>  Next ſhew him the poſture of the end of the Tongue cloſe to the Goums, and he will without much difficulty be brought to pro<g ref="char:EOLhyphen"/>nounce either <hi>T,</hi>
+or elſe <hi>D.</hi> Uſe the ſame method as before, and which ſoever he ſpeaks, ſhew it him written, and having the other alſo written in the paper, ſhew him <hi>that,</hi> after he has con'd the <hi>Firſt,</hi> and require it of him, ſtill keeping the ſame poſture of the Mouth: which having obtained of him, make him perfect in them both, before you carry him further.  <label type="milestone">
+                  <seg type="milestoneunit">letter(s) </seg>K. G.</label>  Next teach him in like
+<pb n="137" facs="tcp:49742:73"/>manner <hi>K</hi> and <hi>G</hi> calling them <hi>Ka</hi>
+ and <hi>Ga;</hi> but to ſhew him the poſture of theſe, you had need provide a Palat with the upper jaw, of Plaſter, and the ſhape of a Tong of ſtuffed Leather, which will be uſeful to you to deſcribe to him, how the Boſſe of the Tong in theſe Letters is born cloſe in the inner part of the Palat near the Throat; and more uſeful, when you would deſcribe the Vowels: but yet both may be done without it. If you find him ſtick at this Letter, put your fin<g ref="char:EOLhyphen"/>ger to the out-ſide of his Throat, whilſt he is offring to pronounce, and check his Breath there, and he will ſoon perceive what he is to do, and can ſcarce chooſe but ſpeak <hi>K.</hi> When he has got one of theſe Letters perfect, gain the o<g ref="char:EOLhyphen"/>ther
+<pb n="138" facs="tcp:49742:74"/>by the ſame way of <hi>Exclu<g ref="char:EOLhyphen"/>ſion,</hi> as before.</p>
+            <p>Having thus gained of the <hi>Oc<g ref="char:EOLhyphen"/>cluſe</hi> Conſonants, three <hi>Ore-ſpi<g ref="char:EOLhyphen"/>rital, p. t. k.</hi> and three <hi>Ore-vocal, b. d. g;</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">letter(s) </seg>M. N. Ng.</label>  there remain the three <hi>Na<g ref="char:EOLhyphen"/>ſo-vocal, m. n. ng.</hi> which will be moſt eaſily learnt by the ſame way of <hi>excluſion,</hi> requiring him to pronounce a <hi>Labial</hi> Let<g ref="char:EOLhyphen"/>ter, that is, neither <hi>p.</hi> nor <hi>b.</hi> and pointing to his Noſe, to breath that way, he will ſoon pro<g ref="char:EOLhyphen"/>nounce <hi>m.</hi> and in like manner <hi>n</hi> and <hi>ng.</hi>
+            </p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">letter(s) </seg>F. V. Th. Dh.</label>  The <hi>Dental</hi> Conſonants are ve<g ref="char:EOLhyphen"/>ry eaſie, therefore let them be the next, and firſt the <hi>Labiodentals, f, v,</hi>
+which, as alſo the <hi>Linguaden<g ref="char:EOLhyphen"/>tals, th, dh,</hi> he will ſoon learn by the method before directed; though <hi>dh</hi> may be let alone, being
+<pb n="139" facs="tcp:49742:74"/>never written ſo in our Language. But ſince a Conſonant, or at leaſt ſome of the Conſonants, cannot well be pronounced alone, with<g ref="char:EOLhyphen"/>out a Vowel joyned to them, it may be conſidered here, whe<g ref="char:EOLhyphen"/>ther in naming the Conſonants, it is better that the Vowel go be<g ref="char:EOLhyphen"/>fore, or follow it? and what Vow<g ref="char:EOLhyphen"/>el? In our <hi>vulgar</hi> Alphabet, it is obſervable, that in all <hi>occluſe Con<g ref="char:EOLhyphen"/>ſonants,</hi> except the <hi>Naſals,</hi> the Vowel follows, as <hi>be, ce, de, ge, ka, pe, qu, te;</hi> but in the <hi>pervious Conſonants,</hi> and the <hi>Naſals,</hi> be<g ref="char:EOLhyphen"/>cauſe they have paſſage through the Noſe, the Vowel precedes; as, <hi>ef, el, em, en, er, es:</hi> onely <hi>z.</hi> hath ſomething peculiar; and in that it is accounted a double Let<g ref="char:EOLhyphen"/>ter (which it is not in the <hi>Natu<g ref="char:EOLhyphen"/>ral</hi> Alphabet, any more than <hi>S,</hi>)
+<pb n="140" facs="tcp:49742:75"/>we may imagine it to have been anciently pronounced, as it is now by the <hi>Italians, Ds</hi> or <hi>Ts;</hi> and ſo to be called <hi>Zad</hi> from the <hi>Hebrew Tsadi:</hi> but yet to make out my obſervation, we, who pronounce it as a ſingle Letter, do as often call it <hi>Yzard.</hi>
+            </p>
+            <p>Now, as to our preſent purpoſe, we need not be curious, How, nor which Vowels we joyn to the Conſonants, ſince every way they ſerve to expreſs the power of the Conſonant audibly, which is all that is intended: but onely our regard muſt be to chooſe the way, that may ſeem more eaſie; to which end, ſuch a pronunciation, as this that follows, may be ſuita<g ref="char:EOLhyphen"/>ble: <hi>be, ce, de, fa, ga, be, ja, [zha] ka, la, ma, na, pe, qu, ra, ſa, te, va, wa, eks, ya, za.</hi> The reaſon why
+<pb n="141" facs="tcp:49742:75"/>I place the Vowels after the Con<g ref="char:EOLhyphen"/>ſonants, is, Becauſe the opening of an <hi>Appulſe</hi> before a Vowel has a ſmart Spring and force of the Muſcle, the motion being aſſiſted by the Impulſe of Breath, and ſo is more ſenſible, and conſequently more eaſie to be obſerved and learnt, than the ſhutting of the Organs to make an <hi>Appulſe</hi> (<hi>i. e.</hi> a Conſonant) after a Vowel, be<g ref="char:EOLhyphen"/>cauſe in this the Motion is <hi>reſisted</hi> and hindred by the force of Breath, as much as it was <hi>aſſiſted</hi> in the other.</p>
+            <p>This is eminently ſeen in the <hi>Vowel Conſonants, Y, W.</hi> For when they precede, as <hi>Ya, Wa,</hi> there is none but is eaſily perſwaded, that they are as Conſonants, but when they follow, as <hi>Ay, Aw,</hi> their force is ſo abated, that they are miſta<g ref="char:EOLhyphen"/>ken
+<pb n="142" facs="tcp:49742:76"/>for <hi>meer</hi> Vowels. And ſo, as I conceive (but with ſubmiſſion to better Judgements) came in the Notion of <hi>Diphthongs</hi> into the world; in all which, that are accounted properly ſuch, ei<g ref="char:EOLhyphen"/>ther <hi>Y</hi> or <hi>W,</hi> or (which is the ſame in effect) <hi>i</hi> or <hi>u,</hi> follow the other Vowel, as <hi>ai, ei, oi, au, eu, ou:</hi> onely the <hi>Greek</hi> hath <hi>ui,</hi> which if it is to be pronounced in one Syllable, and that pronunciation be Genuine; it is no other than our <hi>Why,</hi> as ὑιος, <hi>Whios;</hi> where <hi>i</hi> is the Vowel, and <hi>u</hi> in the nature of a Conſonant.</p>
+            <p>But to return, we need not be tyed to either way of naming the Conſonants, whether with the Vowel <hi>before</hi> or <hi>after;</hi> but in practiſing to teach, try both ways, eſpecially in ſonorous Conſonants,
+<pb n="143" facs="tcp:49742:76"/>
+               <hi>l. m. n. r. s. z.</hi> and accept of that, which is hit on firſt, with whatſo<g ref="char:EOLhyphen"/>ever Vowel, and whether before or after the Conſonant, becauſe it equally ſerves our purpoſe to ex<g ref="char:EOLhyphen"/>preſs the power of the Conſonant. But when you have brought him to pronounce all Syllables for<g ref="char:EOLhyphen"/>ward and backward; you may then at pleaſure bring him near<g ref="char:EOLhyphen"/>er to the vulgar pronunciation of the <hi>Alphabet,</hi> by writing it again, as you would have him ſetled in pronouncing it after this manner, <hi>a, be, ce, de, e, ef, ga, he, i, ka, el, em, en, o, pe, qu, ar, es, te, u, va, we, ex, ya, zad,</hi> adding <hi>dha, tha, ſha, zha.</hi>
+            </p>
+            <p>This being premiſed, let the next Letters he learns, be <hi>s</hi> and <hi>z.</hi> Your Schollar by this time will be pretty perfect at finding out an
+<pb n="144" facs="tcp:49742:77"/>
+               <hi>Ore-voeal</hi> to an <hi>Ore-ſpirital,</hi> or con<g ref="char:EOLhyphen"/>trary, in the ſame poſture of Or<g ref="char:EOLhyphen"/>gans, as he ſhall happen firſt to hit, and you will have need of ſomething of the ſame kind of Art, though in another way, to teach him <hi>s</hi> or <hi>z.</hi> Shew a <hi>Gin<g ref="char:EOLhyphen"/>gival</hi> Appulſe, and withal by holding your Mouth near to the back of his hand, bare, whilſt you pronounce one of theſe Letters before him, make him perceive that it is a <hi>pervious</hi> Letter, <hi>i. e.</hi> that breath paſſeth out of your Mouth to your Tongs end, whilſt you ſpeak it: and ſhew him that <hi>T.</hi> is cloſe, but this lets breath paſs; and with often trial he will hit on it (though at firſt it may be <hi>liſpingly</hi> or imperfectly;) there be<g ref="char:EOLhyphen"/>ing onely <hi>L</hi> or <hi>R</hi> remaining, which are made by that kind of poſture
+<pb n="145" facs="tcp:49742:77"/>and <hi>L</hi> ſo different, and <hi>R</hi> ſo diffi<g ref="char:EOLhyphen"/>cult, that he will moſt likely by this kind of excluſion find out <hi>S,</hi> and having gained that, he will ſoon have <hi>Z.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">letter(s) </seg>Z</label> 
+            </p>
+            <p>Then ſhew him the poſture of <hi>Sh.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">letter(s) </seg>Sh,</label>  with the Artificial Tong and Palat, and guiding him from <hi>S</hi> to <hi>Sh,</hi> and making him under<g ref="char:EOLhyphen"/>ſtand by Signs, that they reſem<g ref="char:EOLhyphen"/>ble in manner of Sound, and dif<g ref="char:EOLhyphen"/>fer in poſture, he will perceive and learn it; and conſequently <hi>Zh.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">letter(s) </seg>Zh.</label>  And if you pleaſe now, or after he be more perfect in the reſt of the Letters, and entred upon <hi>Syllables;</hi> teach him  <label type="milestone">
+                  <seg type="milestoneunit">letter(s) </seg>J. Ch. L.</label>  
+               <hi>J. i. e. dzha,</hi> and <hi>cha.</hi> i.e.
+ <hi>tsha.</hi> He will ſoon learn <hi>L.</hi> by be<g ref="char:EOLhyphen"/>ing ſhewed to make a ſtop with the end of his <hi>Tong</hi> againſt his Goums, as in <hi>t</hi> on <hi>d.</hi> and let the Breath paſs by the Cheeks or
+<pb n="146" facs="tcp:49742:78"/>ſides of the Tong; and if you write down <hi>tl,</hi> and put him to pro<g ref="char:EOLhyphen"/>nounce it, he will perceive it the eaſier; and he can hardly chuſe but make it Vocal, if he pro<g ref="char:EOLhyphen"/>nounce it with a Vowel either be<g ref="char:EOLhyphen"/>fore or after.
+ <label type="milestone">
+                  <seg type="milestoneunit">letter(s) </seg>R</label>  For <hi>R,</hi> ſhew him the <hi>Gingival</hi> poſture of the Tong, and putting your Mouth cloſe to his Hand or Cheek, while you pronounce it, make him ſenſible of the <hi>jarre;</hi> which with often trial he will be brought to imitate, though for a while it will be trou<g ref="char:EOLhyphen"/>bleſome to him, by reaſon of its roughneſs.</p>
+            <p>When you have thus made him Maſter of all the <hi>Conſonants,</hi> and taught him alſo to breath out <hi>H,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">letter(s) </seg>H</label>  and with patience, and often re<g ref="char:EOLhyphen"/>petition (but with all ſweetneſs and pleaſantneſs, and great care
+<pb n="147" facs="tcp:49742:78"/>that you do not tire nor vex him) ſetled him perfect in the pro<g ref="char:EOLhyphen"/>nunciation of them, and in the knowledge of their Characters; then proceed to the <hi>Vowels.</hi> And <hi>firſt,</hi> carefully obſerve, what Vow<g ref="char:EOLhyphen"/>els he chanced to joyn with the Conſonants in naming them, which might be more than one, as <hi>a,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">letter(s) </seg>a.</label>  and <hi>e,</hi> at leaſt. Write that Vowel af<g ref="char:EOLhyphen"/>ter the ſame Conſonant, and let him ſpeak it, as he did before; after write the Vowel alone, and ſhew him the open Figure of the Vowel, and make him pronounce it, which he will readily do, ha<g ref="char:EOLhyphen"/>ving the ſound of it already fa<g ref="char:EOLhyphen"/>miliar to him, in naming the Con<g ref="char:EOLhyphen"/>ſonants as aforeſaid: and thus 'tis likely you will have <hi>a.</hi> and <hi>e.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">letter(s) </seg>e.</label>  to teach him, if not more, and bring him into ſome acquaintance with
+<pb n="148" facs="tcp:49742:79"/>Vowels. Then ſhew him the po<g ref="char:EOLhyphen"/>ſture of <hi>i</hi> by bearing your Arti<g ref="char:EOLhyphen"/>ficial Tongue near the Palat,
+ <label type="milestone">
+                  <seg type="milestoneunit">letter(s) </seg>i.</label>  and make him perceive, that the Breath is ſqueezed out at a <hi>narrow</hi> paſ<g ref="char:EOLhyphen"/>ſage, and he will eaſily learn it; and when that is done, ſhew him to add the Motion and Figure of the Lip to it, and that will teach him <hi>u.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">letter(s) </seg>u. o.</label>  For <hi>o,</hi> ſhew him, as well as you can, the figure of the Mouth, and make him round his Lips and ſound in his Throat. And in like manner teach him <g ref="char:ougr">ȣ</g>
+               <label type="milestone">
+                  <seg type="milestoneunit">letter(s) </seg>oo.</label>  by his Mouth and Lips bearing at the corners, repreſenting it by <hi>oo.</hi> And when you come to <hi>Syllables,</hi> let him underſtand ſome words, wherein <hi>u</hi> has the like ſound, but without the Lips, as <hi>But, Full, &amp;c.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">letter(s) </seg>w.</label>  Laſtly, teach him <hi>wa, ya,</hi> de<g ref="char:EOLhyphen"/>ſcribing them both <hi>wa,
+ <label type="milestone">
+                     <seg type="milestoneunit">letter(s) </seg>y.</label>  ya,</hi> and <hi>ooa,
+<pb n="149" facs="tcp:49742:79"/>ia;</hi> and  <label type="milestone">
+                  <seg type="milestoneunit">letter(s) </seg>α</label>  
+               <hi>au</hi> (which is the natural α;) and then he will be ſufficient<g ref="char:EOLhyphen"/>ly,  for the preſent, inſtructed in Vowels. And now he being ac<g ref="char:EOLhyphen"/>quainted with ſome Character of every ſound, you may at plea<g ref="char:EOLhyphen"/>ſure make him underſtand <hi>Ano<g ref="char:EOLhyphen"/>malous</hi> pronunciations, by ſhew<g ref="char:EOLhyphen"/>ing him ſuch other known Letters, or Compoſitions of Letters, which have thoſe ſounds, as has already been done in <hi>che, tſhe, j, dzhe,</hi> &amp;c.</p>
+            <p>Whereas the <hi>Vowels</hi> are much more difficult to be taught; you will find, in this method of falling upon them laſt, great help by the Apprehenſiveneſs, he will have al<g ref="char:EOLhyphen"/>ready gained in learning the <hi>Con<g ref="char:EOLhyphen"/>ſonants,</hi> and more forwardneſs in attempting to pronounce; by which, when you require one
+<pb n="150" facs="tcp:49742:80"/>Vowel of him, he will ſometimes ſtumble upon another, which you are preſently to lay hold of, and keep him to ſhew him the Charact<g ref="char:EOLhyphen"/>er of it, and it will be equal gain to you; and ſtill the more he has learnt the remainder will be ſo much eaſier, as there remain few<g ref="char:EOLhyphen"/>er differences of pronunciation for him to wander in.</p>
+            <p>Now beſides theſe directions already given, you will find when you come to practiſe, that your own earneſtneſs and contention to effect what you are about, will continually, whilſt you are at work with him, ſuggeſt to you ſeveral Artifices, whereby to make him better apprehend, what you would have him pronounce; which cannot ſo well be thought of be<g ref="char:EOLhyphen"/>fore hand, nor Rules for it ſet
+<pb n="151" facs="tcp:49742:80"/>down in writing. Now when the labour and patience of getting the Alphabet is over, the main difficulty is overcome.</p>
+            <p>Having thus made him learn the <hi>Alphabet</hi> and the Characters of it, next (or together with the other) teach him an Alphabet upon his fingers, or leveral parts of his hand, by placing the Letters there, which you may deviſe at pleaſure: for example; making the joynts of his fingers of his <hi>left</hi> hand, both on the inſide, and al<g ref="char:EOLhyphen"/>ſo on the outſide, to ſignify ſome Letter, when any of them is pointed at by the fore-finger of the <hi>right</hi> hand, or by any kind of <hi>Feſcue.</hi> Particularly, let the ex<g ref="char:EOLhyphen"/>tremity of the Thumb and four fingers of the Left hand, ſignify <hi>a. e. i. o. u.</hi> The middle of the inſides
+<pb n="152" facs="tcp:49742:81"/>of them, beginning at the Thumb, <hi>b, c, d, f, g.</hi> The bending of the Fingers on the inſide next the Hand, <hi>h, k, l, m, n.</hi> The back<g ref="char:EOLhyphen"/>ſide joynts below the Nails, <hi>p, q, r, s, t.</hi> The middle joynts, <hi>v, w, j, y, z;</hi> any where towards the Wriſt, or croſſing the two fore<g ref="char:EOLhyphen"/>fingers, <hi>x.</hi> And for thoſe ſimple Letters, which are uſed in writing to be expreſſed by Compoſitions, as <hi>th, ſh, ug,</hi> &amp;c. there is no help for it, but he muſt be taught ac<g ref="char:EOLhyphen"/>cordingly, to comply with that faulty way of writing, which they call <hi>Orthography,</hi> and be directed to deſcribe them ſo, and write them ſo too, both that <hi>he</hi> may un<g ref="char:EOLhyphen"/>derſtand what others write, and <hi>they,</hi> what he. You may draw two Portaitures, one of the inſide, the other of the backſide of the
+<pb n="153" facs="tcp:49742:81"/>and deſcribe the Letters upon the places reſpectively, this way, or ſome other, that you ſhall think better, and make him perfect in this <hi>Finger-language.</hi> And then you will find a great pleaſure and eaſe, by practiſing with him that way, readily at all times to pro<g ref="char:EOLhyphen"/>nounce what words you deſcribe with your fingers, and often ex<g ref="char:EOLhyphen"/>erciſe his Pen to write down what you dictate to him; letting him know, when a word is finiſhed, to leave ſome ſpace between that and the next word. And when you would gratify the Curioſity of others, who ſhall deſire to hear him ſpeak, this way will be moſt uſeful and ready. And you may, when you pleaſe, have the recre<g ref="char:EOLhyphen"/>ation of ſurprizing thoſe with ad<g ref="char:EOLhyphen"/>miration, who ſhall hear the <hi>Deaf</hi>
+               <pb n="154" facs="tcp:49742:82"/>perſon pronounce whatſoever they (though with privacy) ſhall deſire, without your ſeeming at all to guide him with your Eye or Mouth, otherwiſe than by beckoning to him to ſpeak, whilſt you ſecretly deſcribe it with your fingers.</p>
+            <p>The next thing you are to do, is to write down (and it would do well, in a pocket-paper-book, to be ready at hand) all kinds of <hi>Syllables,</hi> and practiſe him to pro<g ref="char:EOLhyphen"/>nounce them. Firſt ſyllables of two Letters, <hi>ba, be, bi, bo, bu, boo; k<hi rend="sup">k</hi>a, c<hi rend="sup">s</hi>e, c<hi rend="sup">s</hi>i, o<hi rend="sup">k</hi>o, c<hi rend="sup">k</hi>u; da, de, di, do, du, doo; ad, ed, id,</hi> &amp;c. And then of more Letters, <hi>bla, bra, cla, kna, cra, dla, dna, fla, tra, gla, gna, gra, pla, pra, qua, ſca, ſha, ska, ſla, ſma, ſna, ſpa, ſqua, sta, ſua, tla, tra,</hi> &amp;c. <hi>ſcra, ſdna, ſdra, ſpla, stra,</hi> &amp;c. and all theſe back<g ref="char:EOLhyphen"/>wards
+<pb n="155" facs="tcp:49742:82"/>as, <hi>alb, arb, alk, ank, ark, ald,</hi> &amp;c. And when you have made him perfect at Syllables, then you may reckon, that you have taught him all pronunciati<g ref="char:EOLhyphen"/>on of Language, ſince all words are onely ſome of theſe Syllables, or elſe Syllables compounded of theſe, as <hi>ſtrand, ſtra, and;</hi> or elſe being <hi>poly-ſyllables,</hi> are but a joyn<g ref="char:EOLhyphen"/>ing of more of theſe Syllables, which is nothing elſe but pro<g ref="char:EOLhyphen"/>nouncing theſe Syllables one af<g ref="char:EOLhyphen"/>ter another, making a diſtinction between every word.</p>
+            <p>
+               <hi>Next,</hi> you are to teach him the knowledge of <hi>Words,</hi> (but it would do well in the mean time, to make him ſpeak and write ſome Sentences, to inure him to <hi>Con<g ref="char:EOLhyphen"/>nexion</hi> of Speech.) And here you may eaſily ſhew him Viſible Bo<g ref="char:EOLhyphen"/>dies
+<pb n="156" facs="tcp:49742:83"/>and Colours, and tell him the names of them, and you may by ſignes make him underſtand <hi>local</hi> Adverbs, and ſome others of Qualities, <hi>well, ill,</hi> &amp;c. as alſo ſuch <hi>Adjectives,</hi> as repreſent ſen<g ref="char:EOLhyphen"/>ſible qualities, as <hi>bitter, ſweet,</hi> &amp;c. and many other kinds. Every paſ<g ref="char:EOLhyphen"/>ſage will give ſome occaſion to make him underſtand more of the Particles and Bands of Speech.</p>
+            <p>I had once in my thoughts to con<g ref="char:EOLhyphen"/>trive a Method of <hi>Grammar,</hi> and <hi>Dictionary</hi> for this uſe. Of <hi>Gram<g ref="char:EOLhyphen"/>mar,</hi> more than I can now com<g ref="char:EOLhyphen"/>prize in ſhort hints. And the la<g ref="char:EOLhyphen"/>ter, Alphabetically containing the words of the Language, which the Deaf perſon is to learn; as ſuppoſe, <hi>Engliſh.</hi> And the Expo<g ref="char:EOLhyphen"/>ſition, being a repreſentation of the Figure of ſo many words, as
+<pb n="157" facs="tcp:49742:83"/>can be deſcribed, and of the reſt by ſuch other ſignes, as might be thought of, referring the <hi>Synony<g ref="char:EOLhyphen"/>ma's</hi> to thoſe, which have Expo<g ref="char:EOLhyphen"/>ſitions; by which he might help himſelf to know the <hi>meaning</hi> of ſuch Words as he ſhould meet with, and by often looking on it, gain the knowledge of Words: But the occaſion of exciting and exerciſing my thoughts being un<g ref="char:EOLhyphen"/>happily removed, I went no fur<g ref="char:EOLhyphen"/>ther; but hope to ſee them per<g ref="char:EOLhyphen"/>fected by thoſe, who ſhall meet with ſuch like occaſions. And in<g ref="char:EOLhyphen"/>deed, ſuch a Work, as this, is not to be perfected by ſtudy alone; but muſt and will receive many hints and helps, and to be thought on otherwiſe, whilſt the endea<g ref="char:EOLhyphen"/>vour is excited, being under ex<g ref="char:EOLhyphen"/>periment and practice. But ſo far
+<pb n="158" facs="tcp:49742:84"/>as I had occaſion to ſtudy, and practiſe with happy ſucceſs, I have faithfully imparted, and wiſh, it may be uſeful to thoſe who ſtand in need of it.</p>
+            <div type="experiment">
+               <pb n="159" facs="tcp:49742:84"/>
+               <head>
+                  <hi>An Experiment concerning</hi> Deaf<g ref="char:EOLhyphen"/>neſs <hi>cauſed by want of due</hi> Ten<g ref="char:EOLhyphen"/>ſion <hi>of the</hi> Membrane <hi>in the Ear call'd the</hi> Tympanum; <hi>ſee</hi> p. 113.</head>
+               <p>A Young Gentleman known to divers of the <hi>R. Society,</hi> was born Deaf, and continued Dumb till his age of 10. or 11 years. His Mother when ſhe was great with him, received a ſudden fright; by occaſion whereof, the Childs head and face were a little diſtorted, the whole right ſide (as I remember) being ſomewhat e<g ref="char:EOLhyphen"/>levated, and the left depreſſed; ſo that the paſſage of his left Ear was quite ſhut up, and that of the right Ear proportionally diſtended, and too open. This Gentleman being for ſome time recommended to
+<pb n="160" facs="tcp:49742:85"/>my Care, amongſt other things, I ſpent ſome thoughts in ſearching the cauſe of his Deafneſs in the Ear, whoſe paſſage was open. And having found, that the Audi<g ref="char:EOLhyphen"/>tory Nerve was not periſhed, but that he could hear the ſound of a Lute-ſtring, holding one end thereof in his Teeth; and had ſome perception of any very ve<g ref="char:EOLhyphen"/>hement ſound, I ſuppoſed the de<g ref="char:EOLhyphen"/>fect to lie in the want of due Ten<g ref="char:EOLhyphen"/>ſion of the <hi>Tympanum</hi> of his <hi>Ear;</hi> whoſe uſe I took to be, onely to preſerve the Auditory Nerve, and Brain, and inward parts of the Ear from <hi>outward</hi> injury by Cold, Duſt, <hi>&amp;c.</hi> and to be no more to Hearing, than glaſs in the win<g ref="char:EOLhyphen"/>dow is in a Room to Seeing, <hi>i. e.</hi> as the one intromits Light without Cold or offence to thoſe in the
+<pb n="161" facs="tcp:49742:85"/>room: ſo the other permits ſound to paſs, and ſhuts out what elſe might offend the Organ; as ap<g ref="char:EOLhyphen"/>pears in the experiment of break<g ref="char:EOLhyphen"/>ing the <hi>Tympanum</hi> of a Dog, who hears never the worſe for ſome few weeks, till other cauſes, as Cold, <hi>&amp;c.</hi> vitiate the Organ.</p>
+               <p>But for the free paſſage of the ſound into the Ear, it is requiſite, that the <hi>Tympanum</hi> be tenſe and hard ſtretched; otherwiſe the lax<g ref="char:EOLhyphen"/>neſs of that Membrane will cer<g ref="char:EOLhyphen"/>tainly dead and damp the ſound, And becauſe the <hi>Tympanum</hi> is fix<g ref="char:EOLhyphen"/>ed in the circumference thereof to the <hi>Annulus Oſſeus,</hi> and ſo is not capable of Tenſion that way, in ſuch manner as a Drum is braced; there remains another way, by drawing it at the Center into a <hi>Conoid</hi> form. And that is the prin<g ref="char:EOLhyphen"/>cipal
+<pb n="162" facs="tcp:49742:86"/>Office of the three <hi>Oſſicles, viz.</hi> the <hi>Malleus, Incus,</hi> and <hi>Sta<g ref="char:EOLhyphen"/>pes,</hi> of which the <hi>Stapes</hi> is fixed to the Inner-bone in the <hi>Foramen Ovale;</hi> the <hi>Malleus</hi> in the extre<g ref="char:EOLhyphen"/>mity of that Proceſs thereof, which is more direct (though ſomewhat bowing) lies along fixed to the <hi>Tympanum;</hi> and on the other end is joyned to the <hi>Incus</hi> by a double or Gingly moid joynt; ſuch as in which the upper and lower dou<g ref="char:EOLhyphen"/>ble Teeth meet one another. The <hi>Incus,</hi> ſcituate between the two former, is one way joyned to the <hi>Malleus,</hi> by ſuch a joynt as laſt mentioned: the other end, be<g ref="char:EOLhyphen"/>ing a Proceſs, is fixed with a liga<g ref="char:EOLhyphen"/>ment to the <hi>Stapes.</hi> In the <hi>Os Pe<g ref="char:EOLhyphen"/>troſum</hi> is ſcituate a Muſcle from which a <hi>Tendon</hi> is fixed to the end of another more perpendi<g ref="char:EOLhyphen"/>cula
+<pb n="163" facs="tcp:49742:86"/>proceſs of the <hi>Malleus,</hi> (ſome deſcribe two <hi>Tendons</hi> from the ſame Muſcle, one faſtened to the aforeſaid Proceſs, the other to the neck of the <hi>Malleus</hi>) which drawing the <hi>Malleus</hi> inwards, the joyned ends of that Bone, and the <hi>Incus</hi> receding, make a more acute Angle at that joynt, and give a greater Curvity to the po<g ref="char:EOLhyphen"/>ſture of the ſaid three Oſſicles; the ligament which faſtens the <hi>Incus</hi> to the <hi>Stapes</hi> (which is fix<g ref="char:EOLhyphen"/>ed to an immoveable Bone) com<g ref="char:EOLhyphen"/>plying with the receſs of the o<g ref="char:EOLhyphen"/>ther end, ſide-ways at the joynt; and the <hi>Malleus</hi> being fixed to an extenſible Membrane, follows the Traction of the Muſcle, and is drawn inwards to bring the Terms of that line (which the new poſture of the bones
+<pb n="164" facs="tcp:49742:87"/>makes) nearer, in proportion as it is Curved, and ſo gives a Tenſi<g ref="char:EOLhyphen"/>on to the <hi>Tympanum,</hi> by drawing after it the Center of the <hi>Tympa<g ref="char:EOLhyphen"/>num,</hi> and ſo ſtretching the ſurface of it, from a Plain to a Conoid Figure within the ſame Circumfe<g ref="char:EOLhyphen"/>rence.</p>
+               <p>And I conceive, the action of this Muſcle does ordinarily and conſtantly draw the <hi>Tympanum</hi> to a moderate Tenſion; but when we have occaſion to liſten, and give a more particular attention to ſome ſound, the action of that Muſcle is then more intenſe, and the <hi>Tympanum</hi> is drawn to a more then ordinary tenſion, ſo to faci<g ref="char:EOLhyphen"/>litate the paſſage of the ſound.</p>
+               <p>Now as to the caſe of the young Gentleman before menti<g ref="char:EOLhyphen"/>oned, I ſuppoſed either the Muſcle
+<pb n="165" facs="tcp:49742:87"/>by that convulſive ſtarting Moti<g ref="char:EOLhyphen"/>on in the Womb to be overſtrain<g ref="char:EOLhyphen"/>ed, and to have loſt its Action; or the <hi>Membrane</hi> by that greater a<g ref="char:EOLhyphen"/>perture of the Organ to be over<g ref="char:EOLhyphen"/>ſtretched, and afterwards to re<g ref="char:EOLhyphen"/>main ſo flaccid, that it was beyond the activity of the Muſcle and Curviture of the <hi>Oſſicles</hi> to give it a due Tenſion; or peradventure there was a concurrence of both Cauſes. Which due Tenſion, if by any remedy it might be reſtored, I aſſum'd that he might recover his hearing in that Ear: to which end I adviſed that excellent La<g ref="char:EOLhyphen"/>dy his Mother, to conſult with Learned Phyſitians, if by ſome ad<g ref="char:EOLhyphen"/>ſtringement Fumes, or otherwiſe he might find help.</p>
+               <p>And for Experiment, I thought of a <hi>Temporary</hi> way, by the im<g ref="char:EOLhyphen"/>pulſe
+<pb n="166" facs="tcp:49742:88"/>of any <hi>vehement</hi> ſound; as of a Drum beaten near him: which ſound, during its continu<g ref="char:EOLhyphen"/>ance, muſt needs give the <hi>Tympa<g ref="char:EOLhyphen"/>num</hi> a Tenſion, by driving and ſwelling it inwards, as a freſh gale of wind fills the ſails of a ſhip; and the Experiment ſucceeded ac<g ref="char:EOLhyphen"/>cording to my expectation: for ſo long as I beat a Drum faſt and loud by him, he could <hi>hear</hi> thoſe who ſtood behind him, calling him gently by his Name (which he underſtood, having learned to ſpeak and pronounce it among o<g ref="char:EOLhyphen"/>other words;) and wen the Drum ceaſed, he did not hear the ſame Perſons, when they again very loud called him by his Name. And by this we tryed ſeveral times, by beating of the Drum again, and ceaſing it; and he ſtil heard them,
+<pb n="167" facs="tcp:49742:88"/>when the Drum beat, and heard them not, when it ſtopt.</p>
+               <p>Since that time, a Gentleman about <hi>Oxford-ſhire,</hi> ſometimes Stu<g ref="char:EOLhyphen"/>dent in <hi>Chriſt-Church,</hi> being in a great degree of Deafneſs, after I had told him of this experiment, call'd to mind, that he never heard ſo well and eaſily, as when he was diſcourſing with company in a Coach, whilſt it went faſt, and made a great rumbling noiſe in <hi>London</hi>-ſtreets: by which he was induced to believe, that the Im<g ref="char:EOLhyphen"/>pediment of his Hearing was of the like nature with the other.</p>
+               <p>At the ſame time when this was read before the <hi>R. Society,</hi> a Per<g ref="char:EOLhyphen"/>ſon of Quality of the Society re<g ref="char:EOLhyphen"/>membred
+<pb n="168" facs="tcp:49742:89"/>to have found in him<g ref="char:EOLhyphen"/>ſelf, (being at ſometimes ſubject to thicknes of Hearing) the like effect with this laſt mentioned, though he had not before conſi<g ref="char:EOLhyphen"/>dered the reaſon of it; his acquaint<g ref="char:EOLhyphen"/>ance having often obſerved to him, that at ſuch times of his Deafneſs, he heard them very well, whilſt they talked together in a Coach in the paved Streets.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </back>
+   </text>
+</TEI>
